@@ -1,0 +1,14 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "3a85cca6-06ba-42e6-96e1-8df9c870bd63")
+	(paper "A3")
+	(title_block
+		(title "VALKIRIA SPLIT")
+		(date "2026-10-18")
+		(rev "1.0")
+		(company "DavidMolTor")
+	)
+	(lib_symbols)
+)

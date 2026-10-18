@@ -1,0 +1,34 @@
+(kicad_sch
+	(version 20260306)
+	(generator "eeschema")
+	(generator_version "10.0")
+	(uuid "a6ff050d-33f7-484d-b7ec-29fe28dd6cff")
+	(paper "A4")
+	(title_block
+		(title "VALKIRIA SPLIT")
+		(date "2026-10-18")
+		(rev "1.0")
+		(company "DavidMolTor")
+	)
+	(lib_symbols)
+	(wire
+		(pts
+			(xy 40.7162 19.1262) (xy 0.0762 19.1262)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8de868e6-6e5d-4624-9385-5421cd6b5c26")
+	)
+	(wire
+		(pts
+			(xy 0.0762 0.0762) (xy 0.0762 19.1262)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff617a99-c8e8-41fa-a772-ae79ed7eb73b")
+	)
+)
