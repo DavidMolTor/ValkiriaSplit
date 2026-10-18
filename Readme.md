@@ -1,4 +1,4 @@
-# CALKIRIA
+# VALKIRIA
 
 Completely wireless split keyboard using nRF52840 as the controller for each side.
 
