@@ -6,7 +6,7 @@
 		(thickness 1.6)
 		(legacy_teardrops no)
 	)
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "VALKIRIA SPLIT")
 		(date "2026-10-18")
