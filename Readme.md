@@ -1,4 +1,4 @@
-# VALKYRIE
+# CALKIRIA
 
 Completely wireless split keyboard using nRF52840 as the controller for each side.
 
@@ -6,7 +6,7 @@ Completely wireless split keyboard using nRF52840 as the controller for each sid
 
 TODO
 
-<p align="center"><img src="/Build/Valkyrie.png" alt="VALKYRIE"></p>
+<p align="center"><img src="/Build/Valkiria.png" alt="VALKIRIA"></p>
 
 ## Features
 
