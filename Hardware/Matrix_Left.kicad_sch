@@ -1466,7 +1466,7 @@
 		)
 	)
 	(junction
-		(at 201.93 59.69)
+		(at 200.66 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "035f83ce-3222-4287-8794-58f3e07cade5")
@@ -1490,7 +1490,7 @@
 		(uuid "0ca06f96-ea9a-4638-8546-53ded335e67f")
 	)
 	(junction
-		(at 148.59 59.69)
+		(at 147.32 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0de2ab8d-e0ab-4b48-87f0-7bf012770333")
@@ -1526,13 +1526,13 @@
 		(uuid "16b43455-7d4d-413f-b19b-2afdf218bfa9")
 	)
 	(junction
-		(at 95.25 59.69)
+		(at 93.98 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a735a6b-bd40-4ce4-a455-1647ba5c168b")
 	)
 	(junction
-		(at 148.59 44.45)
+		(at 147.32 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a7806c0-8ac9-4b3b-982e-b20a8a032696")
@@ -1556,7 +1556,7 @@
 		(uuid "22728499-3dbb-445d-8810-c76bb2b72435")
 	)
 	(junction
-		(at 95.25 44.45)
+		(at 93.98 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "23f767b2-a6b7-4cc8-bb53-5832d53f0498")
@@ -1574,7 +1574,7 @@
 		(uuid "25acca5d-315f-4dff-8be5-82db65d170b5")
 	)
 	(junction
-		(at 121.92 90.17)
+		(at 120.65 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "26551164-1b67-4b10-9fe5-f193757903de")
@@ -1592,7 +1592,7 @@
 		(uuid "2d1b3c86-3201-492a-be32-752f1e9d4059")
 	)
 	(junction
-		(at 95.25 105.41)
+		(at 93.98 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2fb191da-45d8-40c5-ad09-030afd5d62cb")
@@ -1610,7 +1610,7 @@
 		(uuid "36889e4b-b1db-42e6-adf5-7dc1cf982f25")
 	)
 	(junction
-		(at 201.93 74.93)
+		(at 200.66 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "37388ef5-4664-4fdd-b0a7-e7c5e902c829")
@@ -1628,7 +1628,7 @@
 		(uuid "3d5b6d5e-5222-429e-b26b-84cf4cf285ff")
 	)
 	(junction
-		(at 175.26 44.45)
+		(at 173.99 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3d672450-95c2-406e-a867-231b90f220ca")
@@ -1640,13 +1640,13 @@
 		(uuid "3d73b593-ab67-4944-a863-df3be641c19d")
 	)
 	(junction
-		(at 121.92 74.93)
+		(at 120.65 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4124c9c5-cbf6-4b38-a583-2030de179d32")
 	)
 	(junction
-		(at 175.26 74.93)
+		(at 173.99 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "43938170-c49d-48d2-a084-dbbc63198d50")
@@ -1664,7 +1664,7 @@
 		(uuid "491302aa-954d-49c7-8456-0422208b4685")
 	)
 	(junction
-		(at 121.92 105.41)
+		(at 120.65 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "52b5d842-0a51-49a4-bab4-730bcceee5fe")
@@ -1742,13 +1742,13 @@
 		(uuid "7d119985-9ddd-4f67-84e2-cd03445abe94")
 	)
 	(junction
-		(at 148.59 90.17)
+		(at 147.32 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7e1354c8-08f5-495d-abc4-90afe8a7623e")
 	)
 	(junction
-		(at 121.92 44.45)
+		(at 120.65 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7f217ca7-ccc6-4f5b-9155-681f82145815")
@@ -1760,7 +1760,7 @@
 		(uuid "824b3b1c-ab10-4493-aecf-4c4010f61206")
 	)
 	(junction
-		(at 148.59 105.41)
+		(at 147.32 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8ee4b05f-545c-488c-a68e-b654ff0a5c03")
@@ -1808,7 +1808,7 @@
 		(uuid "9b27406f-aae3-44d7-bda8-9f49aa820968")
 	)
 	(junction
-		(at 228.6 59.69)
+		(at 227.33 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9e806605-51ca-422c-8245-1e54b01a93c9")
@@ -1826,7 +1826,7 @@
 		(uuid "a1b08f2e-bf3f-462c-a4ae-11dccf246dbe")
 	)
 	(junction
-		(at 201.93 90.17)
+		(at 200.66 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a5d34186-d07d-4704-b5c9-481f3ab9c0e1")
@@ -1844,13 +1844,13 @@
 		(uuid "b0336b5e-d4d5-44ba-aea7-2f6fbb99186b")
 	)
 	(junction
-		(at 175.26 59.69)
+		(at 173.99 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b0eac026-266b-43b4-8f31-5828cfd803d2")
 	)
 	(junction
-		(at 201.93 44.45)
+		(at 200.66 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1e5b3e2-7596-4a73-adc6-e76b817962c5")
@@ -1862,13 +1862,13 @@
 		(uuid "b5a360e6-adcf-4e0c-90cc-72a7117a8ede")
 	)
 	(junction
-		(at 228.6 74.93)
+		(at 227.33 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b6a7e304-77ad-44c7-89db-cb15493e74d7")
 	)
 	(junction
-		(at 228.6 44.45)
+		(at 227.33 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b91d0d42-cf0c-4eec-8f9e-cd79d2ff5546")
@@ -1886,7 +1886,7 @@
 		(uuid "bd2ec4d3-144f-4620-b344-0f95d1010051")
 	)
 	(junction
-		(at 95.25 90.17)
+		(at 93.98 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "bfc36759-2bb1-4e49-b080-c2759e694465")
@@ -1898,13 +1898,13 @@
 		(uuid "c2feb8ae-07d5-4a82-b0ec-655c2a90ac9e")
 	)
 	(junction
-		(at 95.25 74.93)
+		(at 93.98 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cb233725-7d5d-4ba8-b39e-4f6889fc15a4")
 	)
 	(junction
-		(at 175.26 105.41)
+		(at 173.99 105.41)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d1039bcb-e0c6-4bb0-a67a-d318da7cd9ed")
@@ -1940,13 +1940,13 @@
 		(uuid "deee7632-f18f-4a9b-97e9-9b9a859bae34")
 	)
 	(junction
-		(at 121.92 59.69)
+		(at 120.65 59.69)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e34cf5a0-73b8-41b5-9551-351bd953dd69")
 	)
 	(junction
-		(at 148.59 74.93)
+		(at 147.32 74.93)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e4ef64b1-644a-4252-b776-85adaea6996a")
@@ -1958,7 +1958,7 @@
 		(uuid "e5fca128-a61e-45ce-9fae-975b2b59e033")
 	)
 	(junction
-		(at 228.6 90.17)
+		(at 227.33 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "ea7cda87-68c2-4055-b1ee-cc024b073682")
@@ -1988,7 +1988,7 @@
 		(uuid "f357e8fc-3d89-4f8f-bdee-6e1652bb4e0e")
 	)
 	(junction
-		(at 175.26 90.17)
+		(at 173.99 90.17)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f73ddb1f-dbad-45b3-a3cd-7acbe2e354bc")
@@ -2021,7 +2021,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 85.09) (xy 121.92 85.09)
+			(xy 119.38 85.09) (xy 120.65 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2038,16 +2038,6 @@
 			(type default)
 		)
 		(uuid "02d48a3a-a4fe-471a-a728-5dd5ce00c22c")
-	)
-	(wire
-		(pts
-			(xy 246.38 85.09) (xy 245.11 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "02e7ca27-adfd-4f82-b087-30d347002f25")
 	)
 	(wire
 		(pts
@@ -2111,7 +2101,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 74.93) (xy 255.27 74.93)
+			(xy 227.33 74.93) (xy 254 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2121,7 +2111,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 39.37) (xy 228.6 44.45)
+			(xy 227.33 39.37) (xy 227.33 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2181,7 +2171,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 54.61) (xy 95.25 54.61)
+			(xy 92.71 54.61) (xy 93.98 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2241,7 +2231,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 69.85) (xy 95.25 74.93)
+			(xy 93.98 69.85) (xy 93.98 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2271,16 +2261,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 100.33) (xy 165.1 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "1083dc54-c542-4fae-b1e9-25b350233d30")
-	)
-	(wire
-		(pts
 			(xy 180.34 39.37) (xy 180.34 54.61)
 		)
 		(stroke
@@ -2291,7 +2271,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 100.33) (xy 95.25 105.41)
+			(xy 93.98 100.33) (xy 93.98 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2301,7 +2281,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 74.93) (xy 148.59 74.93)
+			(xy 120.65 74.93) (xy 147.32 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2331,7 +2311,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 44.45) (xy 201.93 44.45)
+			(xy 173.99 44.45) (xy 200.66 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2341,7 +2321,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 100.33) (xy 121.92 105.41)
+			(xy 120.65 100.33) (xy 120.65 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2361,7 +2341,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 59.69) (xy 148.59 59.69)
+			(xy 120.65 59.69) (xy 147.32 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2371,7 +2351,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 74.93) (xy 175.26 74.93)
+			(xy 147.32 74.93) (xy 173.99 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2381,7 +2361,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 69.85) (xy 121.92 69.85)
+			(xy 119.38 69.85) (xy 120.65 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2411,7 +2391,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 44.45) (xy 95.25 44.45)
+			(xy 60.96 44.45) (xy 93.98 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2431,7 +2411,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 100.33) (xy 255.27 105.41)
+			(xy 254 100.33) (xy 254 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2441,7 +2421,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 44.45) (xy 175.26 44.45)
+			(xy 147.32 44.45) (xy 173.99 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2451,7 +2431,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 59.69) (xy 175.26 59.69)
+			(xy 147.32 59.69) (xy 173.99 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2481,7 +2461,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 85.09) (xy 175.26 90.17)
+			(xy 173.99 85.09) (xy 173.99 90.17)
 		)
 		(stroke
 			(width 0)
@@ -2521,23 +2501,13 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 54.61) (xy 95.25 59.69)
+			(xy 93.98 54.61) (xy 93.98 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "20034f7b-b143-4e48-9dff-7b3658cd7fa1")
-	)
-	(wire
-		(pts
-			(xy 166.37 39.37) (xy 165.1 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "211a9102-24e2-49cd-8496-8bd90a9810a7")
 	)
 	(wire
 		(pts
@@ -2581,7 +2551,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 54.61) (xy 201.93 54.61)
+			(xy 199.39 54.61) (xy 200.66 54.61)
 		)
 		(stroke
 			(width 0)
@@ -2611,7 +2581,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 85.09) (xy 255.27 85.09)
+			(xy 252.73 85.09) (xy 254 85.09)
 		)
 		(stroke
 			(width 0)
@@ -2631,7 +2601,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 100.33) (xy 175.26 105.41)
+			(xy 173.99 100.33) (xy 173.99 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2661,7 +2631,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 69.85) (xy 121.92 74.93)
+			(xy 120.65 69.85) (xy 120.65 74.93)
 		)
 		(stroke
 			(width 0)
@@ -2671,7 +2641,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 54.61) (xy 255.27 59.69)
+			(xy 254 54.61) (xy 254 59.69)
 		)
 		(stroke
 			(width 0)
@@ -2741,16 +2711,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 54.61) (xy 138.43 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2e02964e-dc30-4b77-8f5c-4b731b9b217d")
-	)
-	(wire
-		(pts
 			(xy 153.67 69.85) (xy 153.67 85.09)
 		)
 		(stroke
@@ -2781,16 +2741,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 100.33) (xy 85.09 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "32bae734-5e82-495d-9b5d-4c5a4141ee11")
-	)
-	(wire
-		(pts
 			(xy 247.65 170.18) (xy 270.51 170.18)
 		)
 		(stroke
@@ -2811,7 +2761,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 39.37) (xy 175.26 39.37)
+			(xy 172.72 39.37) (xy 173.99 39.37)
 		)
 		(stroke
 			(width 0)
@@ -2841,7 +2791,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 69.85) (xy 255.27 69.85)
+			(xy 252.73 69.85) (xy 254 69.85)
 		)
 		(stroke
 			(width 0)
@@ -2851,7 +2801,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 105.41) (xy 255.27 105.41)
+			(xy 173.99 105.41) (xy 254 105.41)
 		)
 		(stroke
 			(width 0)
@@ -2861,7 +2811,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 44.45) (xy 148.59 44.45)
+			(xy 120.65 44.45) (xy 147.32 44.45)
 		)
 		(stroke
 			(width 0)
@@ -2961,16 +2911,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 54.61) (xy 111.76 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3dbf20ee-54fa-4f8e-9af5-5fd358c13fbd")
-	)
-	(wire
-		(pts
 			(xy 180.34 26.67) (xy 180.34 39.37)
 		)
 		(stroke
@@ -2981,23 +2921,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 74.93) (xy 95.25 74.93)
+			(xy 60.96 74.93) (xy 93.98 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "3f2bf360-dbdd-4e81-93ff-a1c7895cf5e8")
-	)
-	(wire
-		(pts
-			(xy 246.38 69.85) (xy 245.11 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3f436d86-2cf4-49a1-becd-61fc7aa0f095")
 	)
 	(wire
 		(pts
@@ -3041,7 +2971,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 39.37) (xy 201.93 39.37)
+			(xy 199.39 39.37) (xy 200.66 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3101,17 +3031,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 69.85) (xy 138.43 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48b1cc15-64d4-4edc-bb8e-e400190cc6c9")
-	)
-	(wire
-		(pts
-			(xy 255.27 69.85) (xy 255.27 74.93)
+			(xy 254 69.85) (xy 254 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3161,17 +3081,7 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 54.61) (xy 85.09 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "507d4051-97cb-45f8-9666-27bd3d49c2b0")
-	)
-	(wire
-		(pts
-			(xy 148.59 90.17) (xy 175.26 90.17)
+			(xy 147.32 90.17) (xy 173.99 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3191,16 +3101,6 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 85.09) (xy 191.77 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "537a233d-dd7c-4b53-9041-fd6089600cc6")
-	)
-	(wire
-		(pts
 			(xy 63.5 243.84) (xy 73.66 243.84)
 		)
 		(stroke
@@ -3211,23 +3111,13 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 54.61) (xy 121.92 59.69)
+			(xy 120.65 54.61) (xy 120.65 59.69)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "53f33745-0d03-4dbe-b6dc-dcd754267714")
-	)
-	(wire
-		(pts
-			(xy 193.04 54.61) (xy 191.77 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "556c1c73-6acf-4d16-a2c9-833fbf97b709")
 	)
 	(wire
 		(pts
@@ -3311,7 +3201,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 85.09) (xy 175.26 85.09)
+			(xy 172.72 85.09) (xy 173.99 85.09)
 		)
 		(stroke
 			(width 0)
@@ -3371,7 +3261,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 105.41) (xy 148.59 105.41)
+			(xy 120.65 105.41) (xy 147.32 105.41)
 		)
 		(stroke
 			(width 0)
@@ -3401,7 +3291,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 90.17) (xy 148.59 90.17)
+			(xy 120.65 90.17) (xy 147.32 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3411,7 +3301,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 69.85) (xy 175.26 74.93)
+			(xy 173.99 69.85) (xy 173.99 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3421,7 +3311,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 85.09) (xy 95.25 90.17)
+			(xy 93.98 85.09) (xy 93.98 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3441,7 +3331,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 54.61) (xy 148.59 59.69)
+			(xy 147.32 54.61) (xy 147.32 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3461,7 +3351,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 74.93) (xy 201.93 74.93)
+			(xy 173.99 74.93) (xy 200.66 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3531,7 +3421,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 69.85) (xy 175.26 69.85)
+			(xy 172.72 69.85) (xy 173.99 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3591,23 +3481,13 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 69.85) (xy 201.93 74.93)
+			(xy 200.66 69.85) (xy 200.66 74.93)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7138e0bd-b703-4430-948e-38e4d8f710e4")
-	)
-	(wire
-		(pts
-			(xy 243.84 100.33) (xy 246.38 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "71c3a507-46be-435c-bba5-e984b458ef55")
 	)
 	(wire
 		(pts
@@ -3631,7 +3511,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 59.69) (xy 255.27 59.69)
+			(xy 227.33 59.69) (xy 254 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3641,7 +3521,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 59.69) (xy 95.25 59.69)
+			(xy 60.96 59.69) (xy 93.98 59.69)
 		)
 		(stroke
 			(width 0)
@@ -3651,7 +3531,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 85.09) (xy 201.93 90.17)
+			(xy 200.66 85.09) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3671,7 +3551,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 90.17) (xy 255.27 90.17)
+			(xy 227.33 90.17) (xy 254 90.17)
 		)
 		(stroke
 			(width 0)
@@ -3691,7 +3571,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 69.85) (xy 201.93 69.85)
+			(xy 199.39 69.85) (xy 200.66 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3721,7 +3601,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 39.37) (xy 201.93 44.45)
+			(xy 200.66 39.37) (xy 200.66 44.45)
 		)
 		(stroke
 			(width 0)
@@ -3781,13 +3661,23 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 100.33) (xy 148.59 100.33)
+			(xy 146.05 100.33) (xy 147.32 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "7ab94d34-ee48-4a5a-af3b-cc74ef68004b")
+	)
+	(wire
+		(pts
+			(xy 224.79 100.33) (xy 222.25 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b3842ac-d5ad-4e06-8563-8fd6e4872719")
 	)
 	(wire
 		(pts
@@ -3808,16 +3698,6 @@
 			(type default)
 		)
 		(uuid "7ef67917-471d-4be0-940c-44a05b097b63")
-	)
-	(wire
-		(pts
-			(xy 166.37 85.09) (xy 165.1 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7f49ebe0-ccfa-4235-819a-dc5bbf828a8d")
 	)
 	(wire
 		(pts
@@ -3851,17 +3731,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 85.09) (xy 218.44 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "81a3501f-596c-4090-a263-d35d233aabc3")
-	)
-	(wire
-		(pts
-			(xy 120.65 39.37) (xy 121.92 39.37)
+			(xy 119.38 39.37) (xy 120.65 39.37)
 		)
 		(stroke
 			(width 0)
@@ -3901,16 +3771,6 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 100.33) (xy 111.76 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "85526609-8367-4cd9-996a-4a4acb9d6f9d")
-	)
-	(wire
-		(pts
 			(xy 180.34 69.85) (xy 181.61 69.85)
 		)
 		(stroke
@@ -3921,7 +3781,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 69.85) (xy 95.25 69.85)
+			(xy 92.71 69.85) (xy 93.98 69.85)
 		)
 		(stroke
 			(width 0)
@@ -3961,7 +3821,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 39.37) (xy 175.26 44.45)
+			(xy 173.99 39.37) (xy 173.99 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4011,7 +3871,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 39.37) (xy 148.59 44.45)
+			(xy 147.32 39.37) (xy 147.32 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4031,16 +3891,6 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 85.09) (xy 138.43 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8e61e1a2-3616-495f-b778-057cfba9bdfd")
-	)
-	(wire
-		(pts
 			(xy 43.18 228.6) (xy 57.15 228.6)
 		)
 		(stroke
@@ -4048,26 +3898,6 @@
 			(type default)
 		)
 		(uuid "8e8e8eaf-1411-41ab-90c8-29b5b124d6e9")
-	)
-	(wire
-		(pts
-			(xy 217.17 100.33) (xy 219.71 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "8f05f09d-a1b4-427d-9d47-e58ff075100c")
-	)
-	(wire
-		(pts
-			(xy 166.37 69.85) (xy 165.1 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "905a09fc-b5e4-4fcb-89d9-a82e90549ff9")
 	)
 	(wire
 		(pts
@@ -4131,7 +3961,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 59.69) (xy 228.6 59.69)
+			(xy 200.66 59.69) (xy 227.33 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4181,27 +4011,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 54.61) (xy 165.1 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9932f60f-9caa-453d-891c-78600aab65bd")
-	)
-	(wire
-		(pts
-			(xy 139.7 100.33) (xy 138.43 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9a0ea310-fadd-43cd-a78c-3b04183723e5")
-	)
-	(wire
-		(pts
-			(xy 201.93 90.17) (xy 228.6 90.17)
+			(xy 200.66 90.17) (xy 227.33 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4211,7 +4021,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 44.45) (xy 228.6 44.45)
+			(xy 200.66 44.45) (xy 227.33 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4231,7 +4041,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 54.61) (xy 201.93 59.69)
+			(xy 200.66 54.61) (xy 200.66 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4241,7 +4051,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 90.17) (xy 121.92 90.17)
+			(xy 93.98 90.17) (xy 120.65 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4301,17 +4111,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 39.37) (xy 138.43 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9c95de66-f667-4039-b049-9ee12be5f625")
-	)
-	(wire
-		(pts
-			(xy 95.25 39.37) (xy 95.25 44.45)
+			(xy 93.98 39.37) (xy 93.98 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4391,7 +4191,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 85.09) (xy 228.6 90.17)
+			(xy 227.33 85.09) (xy 227.33 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4401,7 +4201,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 69.85) (xy 228.6 69.85)
+			(xy 226.06 69.85) (xy 227.33 69.85)
 		)
 		(stroke
 			(width 0)
@@ -4431,7 +4231,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 54.61) (xy 228.6 59.69)
+			(xy 227.33 54.61) (xy 227.33 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4451,7 +4251,7 @@
 	)
 	(wire
 		(pts
-			(xy 120.65 54.61) (xy 121.92 54.61)
+			(xy 119.38 54.61) (xy 120.65 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4471,7 +4271,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 44.45) (xy 121.92 44.45)
+			(xy 93.98 44.45) (xy 120.65 44.45)
 		)
 		(stroke
 			(width 0)
@@ -4491,7 +4291,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 59.69) (xy 201.93 59.69)
+			(xy 173.99 59.69) (xy 200.66 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4561,7 +4361,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 85.09) (xy 148.59 85.09)
+			(xy 146.05 85.09) (xy 147.32 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4621,23 +4421,13 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 85.09) (xy 95.25 85.09)
+			(xy 92.71 85.09) (xy 93.98 85.09)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "adea9a71-072d-4ce7-a80c-21fea76c30b5")
-	)
-	(wire
-		(pts
-			(xy 95.25 105.41) (xy 121.92 105.41)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "ae3af097-3efd-4749-bce4-98f13fcee9fe")
 	)
 	(wire
 		(pts
@@ -4651,7 +4441,7 @@
 	)
 	(wire
 		(pts
-			(xy 200.66 85.09) (xy 201.93 85.09)
+			(xy 199.39 85.09) (xy 200.66 85.09)
 		)
 		(stroke
 			(width 0)
@@ -4681,7 +4471,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 54.61) (xy 175.26 59.69)
+			(xy 173.99 54.61) (xy 173.99 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4698,16 +4488,6 @@
 			(type default)
 		)
 		(uuid "b2e46636-1d1a-4175-bc4f-c2583d165d49")
-	)
-	(wire
-		(pts
-			(xy 113.03 69.85) (xy 111.76 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b374be90-2f35-4df2-85c1-1a7214ca36e2")
 	)
 	(wire
 		(pts
@@ -4731,7 +4511,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 54.61) (xy 228.6 54.61)
+			(xy 226.06 54.61) (xy 227.33 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4741,17 +4521,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 69.85) (xy 191.77 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b56c4fe9-9e2f-477b-a0ee-177a50a69e55")
-	)
-	(wire
-		(pts
-			(xy 173.99 54.61) (xy 175.26 54.61)
+			(xy 172.72 54.61) (xy 173.99 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4771,7 +4541,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 54.61) (xy 148.59 54.61)
+			(xy 146.05 54.61) (xy 147.32 54.61)
 		)
 		(stroke
 			(width 0)
@@ -4788,16 +4558,6 @@
 			(type default)
 		)
 		(uuid "b6b837c4-6eca-41b9-b486-3070c57e2a4f")
-	)
-	(wire
-		(pts
-			(xy 86.36 69.85) (xy 85.09 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6c94f21-7411-4d8e-953a-67b4714aa53b")
 	)
 	(wire
 		(pts
@@ -4831,7 +4591,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 85.09) (xy 121.92 90.17)
+			(xy 120.65 85.09) (xy 120.65 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4871,6 +4631,16 @@
 	)
 	(wire
 		(pts
+			(xy 198.12 100.33) (xy 195.58 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be7efd85-d28d-4201-8e85-777f1f051bef")
+	)
+	(wire
+		(pts
 			(xy 54.61 154.94) (xy 54.61 153.67)
 		)
 		(stroke
@@ -4891,7 +4661,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 59.69) (xy 121.92 59.69)
+			(xy 93.98 59.69) (xy 120.65 59.69)
 		)
 		(stroke
 			(width 0)
@@ -4901,17 +4671,7 @@
 	)
 	(wire
 		(pts
-			(xy 113.03 85.09) (xy 111.76 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0b4d1dc-821e-4817-977e-ab1edc957f71")
-	)
-	(wire
-		(pts
-			(xy 120.65 100.33) (xy 121.92 100.33)
+			(xy 119.38 100.33) (xy 120.65 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4921,7 +4681,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 85.09) (xy 148.59 90.17)
+			(xy 147.32 85.09) (xy 147.32 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4931,7 +4691,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 100.33) (xy 95.25 100.33)
+			(xy 92.71 100.33) (xy 93.98 100.33)
 		)
 		(stroke
 			(width 0)
@@ -4941,7 +4701,7 @@
 	)
 	(wire
 		(pts
-			(xy 175.26 90.17) (xy 201.93 90.17)
+			(xy 173.99 90.17) (xy 200.66 90.17)
 		)
 		(stroke
 			(width 0)
@@ -4991,7 +4751,7 @@
 	)
 	(wire
 		(pts
-			(xy 255.27 85.09) (xy 255.27 90.17)
+			(xy 254 85.09) (xy 254 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5021,7 +4781,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 100.33) (xy 148.59 105.41)
+			(xy 147.32 100.33) (xy 147.32 105.41)
 		)
 		(stroke
 			(width 0)
@@ -5051,7 +4811,7 @@
 	)
 	(wire
 		(pts
-			(xy 180.34 100.33) (xy 182.88 100.33)
+			(xy 180.34 100.33) (xy 187.96 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5111,7 +4871,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 105.41) (xy 175.26 105.41)
+			(xy 147.32 105.41) (xy 173.99 105.41)
 		)
 		(stroke
 			(width 0)
@@ -5121,7 +4881,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 100.33) (xy 255.27 100.33)
+			(xy 252.73 100.33) (xy 254 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5141,7 +4901,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 69.85) (xy 228.6 74.93)
+			(xy 227.33 69.85) (xy 227.33 74.93)
 		)
 		(stroke
 			(width 0)
@@ -5161,7 +4921,7 @@
 	)
 	(wire
 		(pts
-			(xy 201.93 74.93) (xy 228.6 74.93)
+			(xy 200.66 74.93) (xy 227.33 74.93)
 		)
 		(stroke
 			(width 0)
@@ -5191,7 +4951,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 39.37) (xy 148.59 39.37)
+			(xy 146.05 39.37) (xy 147.32 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5211,16 +4971,6 @@
 	)
 	(wire
 		(pts
-			(xy 86.36 39.37) (xy 85.09 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d1daeb1a-0559-4073-bb9f-aee13cd17794")
-	)
-	(wire
-		(pts
 			(xy 326.39 66.04) (xy 331.47 66.04)
 		)
 		(stroke
@@ -5231,7 +4981,7 @@
 	)
 	(wire
 		(pts
-			(xy 228.6 44.45) (xy 255.27 44.45)
+			(xy 227.33 44.45) (xy 254 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5241,7 +4991,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 39.37) (xy 255.27 39.37)
+			(xy 252.73 39.37) (xy 254 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5251,17 +5001,7 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 54.61) (xy 218.44 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d4132755-b30d-4a0f-a06e-59a1189e43b7")
-	)
-	(wire
-		(pts
-			(xy 255.27 39.37) (xy 255.27 44.45)
+			(xy 254 39.37) (xy 254 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5321,7 +5061,7 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 39.37) (xy 228.6 39.37)
+			(xy 226.06 39.37) (xy 227.33 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5341,43 +5081,13 @@
 	)
 	(wire
 		(pts
-			(xy 219.71 39.37) (xy 218.44 39.37)
+			(xy 242.57 100.33) (xy 245.11 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "db1bfaed-3557-4a13-9b3a-47adace142aa")
-	)
-	(wire
-		(pts
-			(xy 113.03 39.37) (xy 111.76 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbf81ea9-196e-42d4-b355-55453d7ab94d")
-	)
-	(wire
-		(pts
-			(xy 190.5 100.33) (xy 193.04 100.33)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dbf91155-4bb2-4a72-95ef-1767006c0d06")
-	)
-	(wire
-		(pts
-			(xy 86.36 85.09) (xy 85.09 85.09)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dcf9383a-e512-481c-aca4-990bf90f0b71")
+		(uuid "dbfd5c3d-8133-4bb6-808f-f1be2b2be7d4")
 	)
 	(wire
 		(pts
@@ -5401,7 +5111,7 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 39.37) (xy 95.25 39.37)
+			(xy 92.71 39.37) (xy 93.98 39.37)
 		)
 		(stroke
 			(width 0)
@@ -5421,33 +5131,13 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 39.37) (xy 245.11 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "dfd4468c-f004-472b-a7ff-d8b6d4fbd5f2")
-	)
-	(wire
-		(pts
-			(xy 207.01 100.33) (xy 209.55 100.33)
+			(xy 207.01 100.33) (xy 214.63 100.33)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "e0556cd6-1d60-4e90-911c-48901d60fcce")
-	)
-	(wire
-		(pts
-			(xy 219.71 69.85) (xy 218.44 69.85)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e09b587a-f3f8-4bf8-9b13-25ca6ecc1ddd")
 	)
 	(wire
 		(pts
@@ -5461,7 +5151,7 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 39.37) (xy 121.92 44.45)
+			(xy 120.65 39.37) (xy 120.65 44.45)
 		)
 		(stroke
 			(width 0)
@@ -5471,7 +5161,7 @@
 	)
 	(wire
 		(pts
-			(xy 148.59 69.85) (xy 148.59 74.93)
+			(xy 147.32 69.85) (xy 147.32 74.93)
 		)
 		(stroke
 			(width 0)
@@ -5491,7 +5181,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 69.85) (xy 148.59 69.85)
+			(xy 146.05 69.85) (xy 147.32 69.85)
 		)
 		(stroke
 			(width 0)
@@ -5501,7 +5191,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 90.17) (xy 95.25 90.17)
+			(xy 60.96 90.17) (xy 93.98 90.17)
 		)
 		(stroke
 			(width 0)
@@ -5531,7 +5221,7 @@
 	)
 	(wire
 		(pts
-			(xy 173.99 100.33) (xy 175.26 100.33)
+			(xy 172.72 100.33) (xy 173.99 100.33)
 		)
 		(stroke
 			(width 0)
@@ -5571,7 +5261,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 54.61) (xy 255.27 54.61)
+			(xy 252.73 54.61) (xy 254 54.61)
 		)
 		(stroke
 			(width 0)
@@ -5601,7 +5291,7 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 105.41) (xy 95.25 105.41)
+			(xy 60.96 105.41) (xy 120.65 105.41)
 		)
 		(stroke
 			(width 0)
@@ -5751,17 +5441,7 @@
 	)
 	(wire
 		(pts
-			(xy 246.38 54.61) (xy 245.11 54.61)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f4e88623-72c6-4c90-a4a4-9b18be4a016b")
-	)
-	(wire
-		(pts
-			(xy 227.33 85.09) (xy 228.6 85.09)
+			(xy 226.06 85.09) (xy 227.33 85.09)
 		)
 		(stroke
 			(width 0)
@@ -5828,16 +5508,6 @@
 			(type default)
 		)
 		(uuid "f8920583-1e4d-4386-a90b-4dfdb6de4716")
-	)
-	(wire
-		(pts
-			(xy 193.04 39.37) (xy 191.77 39.37)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f96f5a6c-1a86-474f-a656-7b526dd71835")
 	)
 	(wire
 		(pts
@@ -5921,7 +5591,7 @@
 	)
 	(wire
 		(pts
-			(xy 95.25 74.93) (xy 121.92 74.93)
+			(xy 93.98 74.93) (xy 120.65 74.93)
 		)
 		(stroke
 			(width 0)
@@ -5940,7 +5610,7 @@
 		(uuid "11f0c973-817e-4296-8446-0fd676306950")
 	)
 	(label "ENC_CW"
-		(at 193.04 100.33 0)
+		(at 198.12 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5950,7 +5620,7 @@
 		(uuid "20fbc743-547c-4898-acdd-7549f743cdee")
 	)
 	(label "ENC_CC"
-		(at 219.71 100.33 0)
+		(at 224.79 100.33 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -5980,7 +5650,7 @@
 		(uuid "a1444736-b887-4dec-94d4-5b8a5519bb52")
 	)
 	(label "ENC_SW"
-		(at 243.84 100.33 180)
+		(at 242.57 100.33 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6351,7 +6021,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 250.19 54.61 180)
+		(at 248.92 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6362,7 +6032,7 @@
 		(fields_autoplaced yes)
 		(uuid "002d25ac-6eb1-4f58-b254-f296a7ca6326")
 		(property "Reference" "D73"
-			(at 250.19 48.26 0)
+			(at 248.92 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6372,7 +6042,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 250.19 50.8 0)
+			(at 248.92 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6382,7 +6052,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 250.19 50.165 0)
+			(at 248.92 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6393,7 +6063,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6404,7 +6074,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6415,7 +6085,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6426,7 +6096,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6437,7 +6107,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6448,7 +6118,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 250.19 54.61 0)
+			(at 248.92 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6485,7 +6155,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "017a4417-bae2-4384-b08e-4a25fb9e056b")
-		(property "Reference" "#PWR069"
+		(property "Reference" "#PWR071"
 			(at 73.66 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -6545,7 +6215,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR069")
+					(reference "#PWR071")
 					(unit 1)
 				)
 			)
@@ -6563,7 +6233,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "02c645c7-a73e-4588-a5b1-59023a9c1fab")
-		(property "Reference" "#PWR071"
+		(property "Reference" "#PWR073"
 			(at 73.66 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -6623,7 +6293,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR071")
+					(reference "#PWR073")
 					(unit 1)
 				)
 			)
@@ -6641,7 +6311,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "03b427cc-ba89-4f4b-8662-9a59c16c0549")
-		(property "Reference" "#PWR0135"
+		(property "Reference" "#PWR0137"
 			(at 200.66 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -6701,7 +6371,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0135")
+					(reference "#PWR0137")
 					(unit 1)
 				)
 			)
@@ -6709,7 +6379,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 170.18 100.33 180)
+		(at 168.91 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6720,7 +6390,7 @@
 		(fields_autoplaced yes)
 		(uuid "03b6dafd-e12e-4095-982d-b3801c55d01f")
 		(property "Reference" "D46"
-			(at 170.18 93.98 0)
+			(at 168.91 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6730,7 +6400,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 170.18 96.52 0)
+			(at 168.91 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6740,7 +6410,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 170.18 95.885 0)
+			(at 168.91 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6751,7 +6421,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6762,7 +6432,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6773,7 +6443,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6784,7 +6454,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6795,7 +6465,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6806,7 +6476,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 170.18 100.33 0)
+			(at 168.91 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7049,7 +6719,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "051137a9-fc07-4853-86d4-44b7f241e76e")
-		(property "Reference" "#PWR0137"
+		(property "Reference" "#PWR0139"
 			(at 209.55 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -7109,7 +6779,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0137")
+					(reference "#PWR0139")
 					(unit 1)
 				)
 			)
@@ -7117,7 +6787,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 196.85 69.85 180)
+		(at 195.58 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -7128,7 +6798,7 @@
 		(fields_autoplaced yes)
 		(uuid "09df5df8-e7d3-4a4c-ab2f-9282e26cfa22")
 		(property "Reference" "D55"
-			(at 196.85 63.5 0)
+			(at 195.58 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7138,7 +6808,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 196.85 66.04 0)
+			(at 195.58 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -7148,7 +6818,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 196.85 65.405 0)
+			(at 195.58 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7159,7 +6829,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7170,7 +6840,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7181,7 +6851,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7192,7 +6862,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7203,7 +6873,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7214,7 +6884,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 196.85 69.85 0)
+			(at 195.58 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7353,7 +7023,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0db152c1-5b4c-4995-bb8c-2dd6b71f8b06")
-		(property "Reference" "#PWR0141"
+		(property "Reference" "#PWR0143"
 			(at 210.82 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -7413,7 +7083,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0141")
+					(reference "#PWR0143")
 					(unit 1)
 				)
 			)
@@ -7533,7 +7203,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0f04b67f-2cbd-4e65-b90f-1441bebab7b5")
-		(property "Reference" "#PWR086"
+		(property "Reference" "#PWR088"
 			(at 102.87 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -7593,7 +7263,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR086")
+					(reference "#PWR088")
 					(unit 1)
 				)
 			)
@@ -7611,7 +7281,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1202dd83-edb9-4934-af9e-9e220924bc98")
-		(property "Reference" "#PWR0146"
+		(property "Reference" "#PWR0148"
 			(at 219.71 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -7671,7 +7341,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0146")
+					(reference "#PWR0148")
 					(unit 1)
 				)
 			)
@@ -7926,7 +7596,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 191.77 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -8016,7 +7686,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "17b0cf47-1306-4d9e-8f17-ae4f4406d736")
-		(property "Reference" "#PWR0160"
+		(property "Reference" "#PWR0162"
 			(at 248.92 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -8076,7 +7746,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0160")
+					(reference "#PWR0162")
 					(unit 1)
 				)
 			)
@@ -8186,7 +7856,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 90.17 85.09 180)
+		(at 88.9 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8197,7 +7867,7 @@
 		(fields_autoplaced yes)
 		(uuid "18b69f48-c352-44a7-8974-3a03724e76d9")
 		(property "Reference" "D15"
-			(at 90.17 78.74 0)
+			(at 88.9 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8207,7 +7877,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 90.17 81.28 0)
+			(at 88.9 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8217,7 +7887,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 90.17 80.645 0)
+			(at 88.9 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8228,7 +7898,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8239,7 +7909,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8250,7 +7920,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8261,7 +7931,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8272,7 +7942,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8283,7 +7953,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 90.17 85.09 0)
+			(at 88.9 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8339,7 +8009,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 250.19 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -8429,7 +8099,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "19c640ca-f848-4ca9-a065-6ccd5a41120e")
-		(property "Reference" "#PWR0149"
+		(property "Reference" "#PWR0151"
 			(at 219.71 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -8489,7 +8159,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0149")
+					(reference "#PWR0151")
 					(unit 1)
 				)
 			)
@@ -8609,7 +8279,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1a02fa1e-667f-484c-9143-700bf701d5cd")
-		(property "Reference" "#PWR0134"
+		(property "Reference" "#PWR0136"
 			(at 190.5 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -8669,7 +8339,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0134")
+					(reference "#PWR0136")
 					(unit 1)
 				)
 			)
@@ -8677,7 +8347,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 223.52 39.37 180)
+		(at 222.25 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8688,7 +8358,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a9ef7c9-a35d-4bed-ab68-797e7e85ea62")
 		(property "Reference" "D63"
-			(at 223.52 33.02 0)
+			(at 222.25 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8698,7 +8368,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 223.52 35.56 0)
+			(at 222.25 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8708,7 +8378,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 223.52 34.925 0)
+			(at 222.25 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8719,7 +8389,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8730,7 +8400,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8741,7 +8411,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8752,7 +8422,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8763,7 +8433,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8774,7 +8444,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 223.52 39.37 0)
+			(at 222.25 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8903,7 +8573,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 170.18 85.09 180)
+		(at 168.91 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8914,7 +8584,7 @@
 		(fields_autoplaced yes)
 		(uuid "1ee3bb25-d535-42e3-bf0f-fcf79aa3bcc1")
 		(property "Reference" "D45"
-			(at 170.18 78.74 0)
+			(at 168.91 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8924,7 +8594,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 170.18 81.28 0)
+			(at 168.91 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8934,7 +8604,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 170.18 80.645 0)
+			(at 168.91 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8945,7 +8615,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8956,7 +8626,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8967,7 +8637,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8978,7 +8648,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8989,7 +8659,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9000,7 +8670,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 170.18 85.09 0)
+			(at 168.91 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9037,7 +8707,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1fc25680-e328-484f-aeea-f5d5494e575e")
-		(property "Reference" "#PWR0110"
+		(property "Reference" "#PWR0112"
 			(at 152.4 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -9097,7 +8767,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0110")
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -9115,7 +8785,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "20cd9fb2-05d1-46be-9476-7228b2806c5a")
-		(property "Reference" "#PWR067"
+		(property "Reference" "#PWR069"
 			(at 64.77 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -9175,7 +8845,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR067")
+					(reference "#PWR069")
 					(unit 1)
 				)
 			)
@@ -9213,7 +8883,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 92.71 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -9322,7 +8992,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 133.35 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -9412,7 +9082,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "23a6c8bb-b025-43b1-b8d1-437e35c0688b")
-		(property "Reference" "#PWR0161"
+		(property "Reference" "#PWR0163"
 			(at 248.92 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -9472,7 +9142,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0161")
+					(reference "#PWR0163")
 					(unit 1)
 				)
 			)
@@ -9490,7 +9160,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "249c9c16-9a54-493d-8613-977899997385")
-		(property "Reference" "#PWR066"
+		(property "Reference" "#PWR068"
 			(at 64.77 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -9550,7 +9220,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR066")
+					(reference "#PWR068")
 					(unit 1)
 				)
 			)
@@ -9558,7 +9228,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 196.85 85.09 180)
+		(at 195.58 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9569,7 +9239,7 @@
 		(fields_autoplaced yes)
 		(uuid "2720b7cf-6cd4-4a20-90f6-10d595207c52")
 		(property "Reference" "D56"
-			(at 196.85 78.74 0)
+			(at 195.58 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9579,7 +9249,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 196.85 81.28 0)
+			(at 195.58 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9589,7 +9259,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 196.85 80.645 0)
+			(at 195.58 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9600,7 +9270,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9611,7 +9281,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9622,7 +9292,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9633,7 +9303,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9644,7 +9314,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9655,7 +9325,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 196.85 85.09 0)
+			(at 195.58 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9682,7 +9352,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 39.37 180)
+		(at 142.24 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -9693,7 +9363,7 @@
 		(fields_autoplaced yes)
 		(uuid "2737ae3d-db1b-4ecc-9152-15d9acdcb6c0")
 		(property "Reference" "D32"
-			(at 143.51 33.02 0)
+			(at 142.24 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9703,7 +9373,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 143.51 35.56 0)
+			(at 142.24 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -9713,7 +9383,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 143.51 34.925 0)
+			(at 142.24 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9724,7 +9394,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9735,7 +9405,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9746,7 +9416,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9757,7 +9427,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9768,7 +9438,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9779,7 +9449,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 143.51 39.37 0)
+			(at 142.24 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9816,7 +9486,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ba0d813-46a3-4b86-99bc-6ecceb8b733d")
-		(property "Reference" "#PWR0102"
+		(property "Reference" "#PWR0104"
 			(at 132.08 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -9876,7 +9546,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0102")
+					(reference "#PWR0104")
 					(unit 1)
 				)
 			)
@@ -9894,7 +9564,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2bc2aa03-8d38-4787-99c2-420d8fe1f24f")
-		(property "Reference" "#PWR0103"
+		(property "Reference" "#PWR0105"
 			(at 132.08 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -9954,7 +9624,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0103")
+					(reference "#PWR0105")
 					(unit 1)
 				)
 			)
@@ -9972,7 +9642,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cee585e-6206-4155-8ff7-22996de4bb5b")
-		(property "Reference" "#PWR084"
+		(property "Reference" "#PWR086"
 			(at 102.87 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -10032,7 +9702,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR084")
+					(reference "#PWR086")
 					(unit 1)
 				)
 			)
@@ -10050,7 +9720,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2cf10fe2-bb95-4440-8e0a-a8af15f303d9")
-		(property "Reference" "#PWR0101"
+		(property "Reference" "#PWR0103"
 			(at 132.08 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -10110,7 +9780,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0101")
+					(reference "#PWR0103")
 					(unit 1)
 				)
 			)
@@ -10764,7 +10434,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 180.34 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -10844,7 +10514,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 170.18 39.37 180)
+		(at 168.91 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -10855,7 +10525,7 @@
 		(fields_autoplaced yes)
 		(uuid "368eb26a-57d0-49cf-9787-8fbaebc9b224")
 		(property "Reference" "D42"
-			(at 170.18 33.02 0)
+			(at 168.91 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10865,7 +10535,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 170.18 35.56 0)
+			(at 168.91 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -10875,7 +10545,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 170.18 34.925 0)
+			(at 168.91 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10886,7 +10556,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10897,7 +10567,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10908,7 +10578,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10919,7 +10589,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10930,7 +10600,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10941,7 +10611,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 170.18 39.37 0)
+			(at 168.91 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10978,7 +10648,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "36fbd729-c95b-47a6-a467-92909fed4c72")
-		(property "Reference" "#PWR063"
+		(property "Reference" "#PWR065"
 			(at 63.5 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -11038,7 +10708,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR063")
+					(reference "#PWR065")
 					(unit 1)
 				)
 			)
@@ -11075,7 +10745,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 74.93 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -11165,7 +10835,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3a089f99-6a43-4d68-bc44-59d25b360c46")
-		(property "Reference" "#PWR0126"
+		(property "Reference" "#PWR0128"
 			(at 181.61 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -11225,7 +10895,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0126")
+					(reference "#PWR0128")
 					(unit 1)
 				)
 			)
@@ -11262,7 +10932,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 220.98 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -11456,7 +11126,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bdb194d-ccb0-4202-9a7d-f5c75ec10fe2")
-		(property "Reference" "#PWR0155"
+		(property "Reference" "#PWR0157"
 			(at 240.03 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -11516,7 +11186,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0155")
+					(reference "#PWR0157")
 					(unit 1)
 				)
 			)
@@ -11524,7 +11194,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 116.84 100.33 180)
+		(at 115.57 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11535,7 +11205,7 @@
 		(fields_autoplaced yes)
 		(uuid "3befc44a-76c4-4bd2-804d-881ab0afc6e2")
 		(property "Reference" "D26"
-			(at 116.84 93.98 0)
+			(at 115.57 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11545,7 +11215,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 116.84 96.52 0)
+			(at 115.57 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -11555,7 +11225,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 116.84 95.885 0)
+			(at 115.57 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11566,7 +11236,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11577,7 +11247,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11588,7 +11258,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11599,7 +11269,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11610,7 +11280,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11621,7 +11291,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 116.84 100.33 0)
+			(at 115.57 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11658,7 +11328,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3bf5182a-27c6-48be-a5e4-b04ca1271dad")
-		(property "Reference" "#PWR0138"
+		(property "Reference" "#PWR0140"
 			(at 209.55 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -11718,7 +11388,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0138")
+					(reference "#PWR0140")
 					(unit 1)
 				)
 			)
@@ -11736,7 +11406,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c63d770-5cf5-4080-bce7-6b258253ed67")
-		(property "Reference" "#PWR0100"
+		(property "Reference" "#PWR0102"
 			(at 132.08 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -11796,7 +11466,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0100")
+					(reference "#PWR0102")
 					(unit 1)
 				)
 			)
@@ -11814,7 +11484,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3c8ffda4-06c7-48c7-aea9-ddd68bc51221")
-		(property "Reference" "#PWR068"
+		(property "Reference" "#PWR070"
 			(at 64.77 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -11874,7 +11544,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR068")
+					(reference "#PWR070")
 					(unit 1)
 				)
 			)
@@ -11984,7 +11654,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 223.52 69.85 180)
+		(at 222.25 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -11995,7 +11665,7 @@
 		(fields_autoplaced yes)
 		(uuid "3eeb8e22-bcde-438e-a946-b55664bc7b4f")
 		(property "Reference" "D65"
-			(at 223.52 63.5 0)
+			(at 222.25 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12005,7 +11675,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 223.52 66.04 0)
+			(at 222.25 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12015,7 +11685,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 223.52 65.405 0)
+			(at 222.25 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12026,7 +11696,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12037,7 +11707,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12048,7 +11718,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12059,7 +11729,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12070,7 +11740,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12081,7 +11751,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 223.52 69.85 0)
+			(at 222.25 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12118,7 +11788,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3ef5a0c5-011f-49c1-a02a-8a70d56710ac")
-		(property "Reference" "#PWR089"
+		(property "Reference" "#PWR091"
 			(at 102.87 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -12178,7 +11848,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR089")
+					(reference "#PWR091")
 					(unit 1)
 				)
 			)
@@ -12421,7 +12091,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 250.19 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -12501,7 +12171,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 90.17 100.33 180)
+		(at 88.9 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -12512,7 +12182,7 @@
 		(fields_autoplaced yes)
 		(uuid "3fdb7fb0-f70f-44c5-9e3f-e1c5a5165e37")
 		(property "Reference" "D16"
-			(at 90.17 93.98 0)
+			(at 88.9 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12522,7 +12192,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 90.17 96.52 0)
+			(at 88.9 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -12532,7 +12202,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 90.17 95.885 0)
+			(at 88.9 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12543,7 +12213,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12554,7 +12224,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12565,7 +12235,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12576,7 +12246,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12587,7 +12257,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12598,7 +12268,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 90.17 100.33 0)
+			(at 88.9 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12841,7 +12511,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "41701c06-2f4d-4b24-ba6c-3a9097bf0ca8")
-		(property "Reference" "#PWR082"
+		(property "Reference" "#PWR084"
 			(at 93.98 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -12901,7 +12571,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR082")
+					(reference "#PWR084")
 					(unit 1)
 				)
 			)
@@ -13144,7 +12814,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 162.56 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -13224,7 +12894,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 170.18 54.61 180)
+		(at 168.91 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13235,7 +12905,7 @@
 		(fields_autoplaced yes)
 		(uuid "43d0253e-d9b5-4e38-bce4-02edab6607e3")
 		(property "Reference" "D43"
-			(at 170.18 48.26 0)
+			(at 168.91 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13245,7 +12915,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 170.18 50.8 0)
+			(at 168.91 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13255,7 +12925,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 170.18 50.165 0)
+			(at 168.91 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13266,7 +12936,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13277,7 +12947,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13288,7 +12958,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13299,7 +12969,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13310,7 +12980,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13321,7 +12991,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 170.18 54.61 0)
+			(at 168.91 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13358,7 +13028,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44153713-8902-4ca9-826e-b525f812d465")
-		(property "Reference" "#PWR079"
+		(property "Reference" "#PWR081"
 			(at 92.71 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -13418,7 +13088,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR079")
+					(reference "#PWR081")
 					(unit 1)
 				)
 			)
@@ -13436,7 +13106,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "44bb1a25-5ea1-4113-ac8a-bfd5b27300eb")
-		(property "Reference" "#PWR0136"
+		(property "Reference" "#PWR0138"
 			(at 200.66 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -13496,7 +13166,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0136")
+					(reference "#PWR0138")
 					(unit 1)
 				)
 			)
@@ -13534,7 +13204,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 209.55 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -13726,7 +13396,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "464c183e-d3c1-4eb4-b682-95523fd71511")
-		(property "Reference" "#PWR0109"
+		(property "Reference" "#PWR0111"
 			(at 151.13 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -13786,7 +13456,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0109")
+					(reference "#PWR0111")
 					(unit 1)
 				)
 			)
@@ -13824,7 +13494,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 151.13 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -13904,7 +13574,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 116.84 54.61 180)
+		(at 115.57 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13915,7 +13585,7 @@
 		(fields_autoplaced yes)
 		(uuid "492ef5b7-3f30-42b1-ab0c-bec5ce08d13b")
 		(property "Reference" "D23"
-			(at 116.84 48.26 0)
+			(at 115.57 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13925,7 +13595,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 116.84 50.8 0)
+			(at 115.57 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13935,7 +13605,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 116.84 50.165 0)
+			(at 115.57 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13946,7 +13616,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13957,7 +13627,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13968,7 +13638,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13979,7 +13649,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13990,7 +13660,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14001,7 +13671,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 116.84 54.61 0)
+			(at 115.57 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14038,7 +13708,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4b088e81-989b-41e5-a1be-778ed547c239")
-		(property "Reference" "#PWR073"
+		(property "Reference" "#PWR075"
 			(at 73.66 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -14098,7 +13768,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR073")
+					(reference "#PWR075")
 					(unit 1)
 				)
 			)
@@ -14106,7 +13776,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 90.17 39.37 180)
+		(at 88.9 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -14117,7 +13787,7 @@
 		(fields_autoplaced yes)
 		(uuid "4bbb2969-4136-4f48-ac41-67c804f1b356")
 		(property "Reference" "D12"
-			(at 90.17 33.02 0)
+			(at 88.9 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14127,7 +13797,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 90.17 35.56 0)
+			(at 88.9 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -14137,7 +13807,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 90.17 34.925 0)
+			(at 88.9 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14148,7 +13818,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14159,7 +13829,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14170,7 +13840,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14181,7 +13851,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14192,7 +13862,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14203,7 +13873,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 90.17 39.37 0)
+			(at 88.9 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14344,7 +14014,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d047a53-0d6e-4f5f-bb86-386bb9dfd2f1")
-		(property "Reference" "#PWR0111"
+		(property "Reference" "#PWR0113"
 			(at 152.4 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -14404,7 +14074,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0111")
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -14422,7 +14092,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4d1c27f0-a316-4fe3-a840-60f4ea4f97b1")
-		(property "Reference" "#PWR077"
+		(property "Reference" "#PWR079"
 			(at 92.71 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -14482,7 +14152,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR077")
+					(reference "#PWR079")
 					(unit 1)
 				)
 			)
@@ -14708,7 +14378,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ed31b54-2884-4cf4-8cfb-1aa81bf599be")
-		(property "Reference" "#PWR0116"
+		(property "Reference" "#PWR0118"
 			(at 161.29 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -14768,7 +14438,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0116")
+					(reference "#PWR0118")
 					(unit 1)
 				)
 			)
@@ -14786,7 +14456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ef52e38-1457-401f-bf7c-b57472aa0e52")
-		(property "Reference" "#PWR081"
+		(property "Reference" "#PWR083"
 			(at 93.98 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -14846,7 +14516,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR081")
+					(reference "#PWR083")
 					(unit 1)
 				)
 			)
@@ -14985,7 +14655,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 162.56 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -15094,7 +14764,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 104.14 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -15203,7 +14873,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 220.98 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -15293,7 +14963,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "510a2408-e202-4db4-a8c6-c6d9a42ef01d")
-		(property "Reference" "#PWR0151"
+		(property "Reference" "#PWR0153"
 			(at 229.87 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -15353,7 +15023,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0151")
+					(reference "#PWR0153")
 					(unit 1)
 				)
 			)
@@ -15361,7 +15031,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 116.84 85.09 180)
+		(at 115.57 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15372,7 +15042,7 @@
 		(fields_autoplaced yes)
 		(uuid "5374d532-dde5-40d7-a4a5-01e75ca8ebae")
 		(property "Reference" "D25"
-			(at 116.84 78.74 0)
+			(at 115.57 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15382,7 +15052,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 116.84 81.28 0)
+			(at 115.57 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15392,7 +15062,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 116.84 80.645 0)
+			(at 115.57 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15403,7 +15073,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15414,7 +15084,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15425,7 +15095,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15436,7 +15106,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15447,7 +15117,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15458,7 +15128,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 116.84 85.09 0)
+			(at 115.57 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15495,7 +15165,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "556ee518-a352-4435-ba87-61f8141ebadc")
-		(property "Reference" "#PWR087"
+		(property "Reference" "#PWR089"
 			(at 102.87 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -15555,7 +15225,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR087")
+					(reference "#PWR089")
 					(unit 1)
 				)
 			)
@@ -15563,7 +15233,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 250.19 69.85 180)
+		(at 248.92 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -15574,7 +15244,7 @@
 		(fields_autoplaced yes)
 		(uuid "57812b3e-2144-496d-8931-c7f7483024b1")
 		(property "Reference" "D74"
-			(at 250.19 63.5 0)
+			(at 248.92 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15584,7 +15254,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 250.19 66.04 0)
+			(at 248.92 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15594,7 +15264,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 250.19 65.405 0)
+			(at 248.92 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15605,7 +15275,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15616,7 +15286,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15627,7 +15297,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15638,7 +15308,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15649,7 +15319,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15660,7 +15330,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 250.19 69.85 0)
+			(at 248.92 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15801,7 +15471,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "59f5233e-a704-4d85-a58d-5f1c27ebbcfa")
-		(property "Reference" "#PWR074"
+		(property "Reference" "#PWR076"
 			(at 73.66 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -15861,7 +15531,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR074")
+					(reference "#PWR076")
 					(unit 1)
 				)
 			)
@@ -15879,7 +15549,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ab0730f-b632-460e-b29f-01cb0bb85130")
-		(property "Reference" "#PWR095"
+		(property "Reference" "#PWR097"
 			(at 123.19 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -15939,7 +15609,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR095")
+					(reference "#PWR097")
 					(unit 1)
 				)
 			)
@@ -15957,7 +15627,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c46dd34-8a7b-47ca-80c9-5ca923997773")
-		(property "Reference" "#PWR0122"
+		(property "Reference" "#PWR0124"
 			(at 180.34 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -16017,7 +15687,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0122")
+					(reference "#PWR0124")
 					(unit 1)
 				)
 			)
@@ -16035,7 +15705,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5d062eca-e96c-4b22-944a-7bc783c938c5")
-		(property "Reference" "#PWR0125"
+		(property "Reference" "#PWR0127"
 			(at 181.61 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -16095,7 +15765,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0125")
+					(reference "#PWR0127")
 					(unit 1)
 				)
 			)
@@ -16113,7 +15783,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5df0d3c2-2054-4090-820e-23377e6e8cb3")
-		(property "Reference" "#PWR061"
+		(property "Reference" "#PWR063"
 			(at 54.61 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -16173,7 +15843,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR061")
+					(reference "#PWR063")
 					(unit 1)
 				)
 			)
@@ -16191,7 +15861,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ea16ceb-f717-41fb-b8c7-efe8a8c5f4be")
-		(property "Reference" "#PWR0142"
+		(property "Reference" "#PWR0144"
 			(at 210.82 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -16251,7 +15921,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0142")
+					(reference "#PWR0144")
 					(unit 1)
 				)
 			)
@@ -16289,7 +15959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 209.55 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -16379,7 +16049,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5ff9e513-f572-4fcf-acc9-993276693d48")
-		(property "Reference" "#PWR062"
+		(property "Reference" "#PWR064"
 			(at 63.5 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -16439,7 +16109,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR062")
+					(reference "#PWR064")
 					(unit 1)
 				)
 			)
@@ -16457,7 +16127,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "60047f72-0b70-4ffd-831e-ea37b1c4e520")
-		(property "Reference" "#PWR085"
+		(property "Reference" "#PWR087"
 			(at 102.87 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -16517,7 +16187,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR085")
+					(reference "#PWR087")
 					(unit 1)
 				)
 			)
@@ -16535,7 +16205,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "606398eb-813a-4d06-95de-735f727e2db9")
-		(property "Reference" "#PWR088"
+		(property "Reference" "#PWR090"
 			(at 102.87 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -16595,7 +16265,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR088")
+					(reference "#PWR090")
 					(unit 1)
 				)
 			)
@@ -16705,7 +16375,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 90.17 69.85 180)
+		(at 88.9 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -16716,7 +16386,7 @@
 		(fields_autoplaced yes)
 		(uuid "626b3d8d-77f4-47d6-ab55-64a3d490bb41")
 		(property "Reference" "D14"
-			(at 90.17 63.5 0)
+			(at 88.9 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16726,7 +16396,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 90.17 66.04 0)
+			(at 88.9 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -16736,7 +16406,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 90.17 65.405 0)
+			(at 88.9 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16747,7 +16417,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16758,7 +16428,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16769,7 +16439,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16780,7 +16450,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16791,7 +16461,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16802,7 +16472,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 90.17 69.85 0)
+			(at 88.9 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16961,7 +16631,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 151.13 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -17051,7 +16721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "635afcf8-c6d8-4d6d-937e-9071d413467b")
-		(property "Reference" "#PWR0130"
+		(property "Reference" "#PWR0132"
 			(at 190.5 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -17111,7 +16781,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0130")
+					(reference "#PWR0132")
 					(unit 1)
 				)
 			)
@@ -17129,7 +16799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "65a15702-481a-4ad4-9d24-d08ab8c0ce80")
-		(property "Reference" "#PWR0147"
+		(property "Reference" "#PWR0149"
 			(at 219.71 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -17189,7 +16859,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0147")
+					(reference "#PWR0149")
 					(unit 1)
 				)
 			)
@@ -17226,7 +16896,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 74.93 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -17420,7 +17090,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "66f6d18b-2b53-4750-bcd1-2b6f3dc2e1e8")
-		(property "Reference" "#PWR0158"
+		(property "Reference" "#PWR0160"
 			(at 240.03 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -17480,7 +17150,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0158")
+					(reference "#PWR0160")
 					(unit 1)
 				)
 			)
@@ -17517,7 +17187,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 133.35 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -17607,7 +17277,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6b8c753a-d2ed-48f7-ad0a-1ee1e8fdf6ea")
-		(property "Reference" "#PWR0105"
+		(property "Reference" "#PWR0107"
 			(at 142.24 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -17667,7 +17337,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0105")
+					(reference "#PWR0107")
 					(unit 1)
 				)
 			)
@@ -17685,7 +17355,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d7500b1-3b12-4b7a-a1ef-8e6e59d20f74")
-		(property "Reference" "#PWR0112"
+		(property "Reference" "#PWR0114"
 			(at 152.4 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -17745,7 +17415,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0112")
+					(reference "#PWR0114")
 					(unit 1)
 				)
 			)
@@ -17857,7 +17527,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 250.19 85.09 180)
+		(at 248.92 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -17868,7 +17538,7 @@
 		(fields_autoplaced yes)
 		(uuid "6fda1e3f-e695-4a43-87aa-d9019d0b2f2c")
 		(property "Reference" "D75"
-			(at 250.19 78.74 0)
+			(at 248.92 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17878,7 +17548,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 250.19 81.28 0)
+			(at 248.92 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -17888,7 +17558,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 250.19 80.645 0)
+			(at 248.92 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17899,7 +17569,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17910,7 +17580,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17921,7 +17591,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17932,7 +17602,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17943,7 +17613,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17954,7 +17624,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 250.19 85.09 0)
+			(at 248.92 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17991,7 +17661,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "700ab6b2-6328-46be-bb9a-08ab789c7b5b")
-		(property "Reference" "#PWR096"
+		(property "Reference" "#PWR098"
 			(at 123.19 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -18051,7 +17721,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR096")
+					(reference "#PWR098")
 					(unit 1)
 				)
 			)
@@ -18069,7 +17739,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "70b10a8d-d599-4f67-b9d4-dfb01d350d37")
-		(property "Reference" "#PWR0163"
+		(property "Reference" "#PWR0165"
 			(at 248.92 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -18129,7 +17799,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0163")
+					(reference "#PWR0165")
 					(unit 1)
 				)
 			)
@@ -18147,7 +17817,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "74c66a7d-0562-47e1-a9ac-8acadaa804ca")
-		(property "Reference" "#PWR060"
+		(property "Reference" "#PWR062"
 			(at 54.61 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -18207,7 +17877,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR060")
+					(reference "#PWR062")
 					(unit 1)
 				)
 			)
@@ -18215,7 +17885,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 213.36 100.33 180)
+		(at 218.44 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -18226,7 +17896,7 @@
 		(fields_autoplaced yes)
 		(uuid "75a2c361-9260-421a-a354-3ef6661fa82a")
 		(property "Reference" "D59"
-			(at 213.36 93.98 0)
+			(at 218.44 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18236,7 +17906,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 213.36 96.52 0)
+			(at 218.44 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -18246,7 +17916,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 213.36 95.885 0)
+			(at 218.44 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18257,7 +17927,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18268,7 +17938,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18279,7 +17949,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18290,7 +17960,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18301,7 +17971,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18312,7 +17982,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 213.36 100.33 0)
+			(at 218.44 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18369,7 +18039,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 63.5 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -18767,7 +18437,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7e1470a4-eadb-450f-b8e7-e1bacec44789")
-		(property "Reference" "#PWR065"
+		(property "Reference" "#PWR067"
 			(at 64.77 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -18827,7 +18497,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR065")
+					(reference "#PWR067")
 					(unit 1)
 				)
 			)
@@ -19051,7 +18721,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7f3fdfa3-8de5-4f0b-8442-5ad861f65f11")
-		(property "Reference" "#PWR0165"
+		(property "Reference" "#PWR0167"
 			(at 339.09 85.09 0)
 			(hide yes)
 			(show_name no)
@@ -19111,7 +18781,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0165")
+					(reference "#PWR0167")
 					(unit 1)
 				)
 			)
@@ -19129,7 +18799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "805208f0-29cf-4a1c-b4c5-b4cd7b7b66f5")
-		(property "Reference" "#PWR070"
+		(property "Reference" "#PWR072"
 			(at 73.66 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -19189,7 +18859,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR070")
+					(reference "#PWR072")
 					(unit 1)
 				)
 			)
@@ -19207,7 +18877,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8108f9ac-2241-413a-9adc-c9ea0e045093")
-		(property "Reference" "#PWR0140"
+		(property "Reference" "#PWR0142"
 			(at 210.82 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -19267,7 +18937,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0140")
+					(reference "#PWR0142")
 					(unit 1)
 				)
 			)
@@ -19379,7 +19049,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 223.52 54.61 180)
+		(at 222.25 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19390,7 +19060,7 @@
 		(fields_autoplaced yes)
 		(uuid "845305f6-8440-42b1-b2ad-623cd177cf54")
 		(property "Reference" "D64"
-			(at 223.52 48.26 0)
+			(at 222.25 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19400,7 +19070,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 223.52 50.8 0)
+			(at 222.25 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19410,7 +19080,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 223.52 50.165 0)
+			(at 222.25 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19421,7 +19091,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19432,7 +19102,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19443,7 +19113,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19454,7 +19124,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19465,7 +19135,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19476,7 +19146,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 223.52 54.61 0)
+			(at 222.25 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19615,7 +19285,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "86d13b82-2a24-43b3-9960-33e3a396e915")
-		(property "Reference" "#PWR0153"
+		(property "Reference" "#PWR0155"
 			(at 238.76 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -19675,7 +19345,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0153")
+					(reference "#PWR0155")
 					(unit 1)
 				)
 			)
@@ -19817,7 +19487,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 180.34 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -19897,7 +19567,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 116.84 69.85 180)
+		(at 115.57 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -19908,7 +19578,7 @@
 		(fields_autoplaced yes)
 		(uuid "892cba26-610b-46ad-82ec-6431482c336f")
 		(property "Reference" "D24"
-			(at 116.84 63.5 0)
+			(at 115.57 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19918,7 +19588,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 116.84 66.04 0)
+			(at 115.57 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -19928,7 +19598,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 116.84 65.405 0)
+			(at 115.57 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19939,7 +19609,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19950,7 +19620,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19961,7 +19631,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19972,7 +19642,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19983,7 +19653,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19994,7 +19664,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 116.84 69.85 0)
+			(at 115.57 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20133,7 +19803,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "8a165897-cc9f-4408-b4d6-04a761370f2e")
-		(property "Reference" "#PWR0164"
+		(property "Reference" "#PWR0166"
 			(at 248.92 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -20193,7 +19863,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0164")
+					(reference "#PWR0166")
 					(unit 1)
 				)
 			)
@@ -20230,7 +19900,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 220.98 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -20310,7 +19980,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 116.84 39.37 180)
+		(at 115.57 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20321,7 +19991,7 @@
 		(fields_autoplaced yes)
 		(uuid "8c09db1e-4da0-49f5-8a43-567f9f41a1aa")
 		(property "Reference" "D22"
-			(at 116.84 33.02 0)
+			(at 115.57 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20331,7 +20001,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 116.84 35.56 0)
+			(at 115.57 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20341,7 +20011,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 116.84 34.925 0)
+			(at 115.57 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20352,7 +20022,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20363,7 +20033,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20374,7 +20044,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20385,7 +20055,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20396,7 +20066,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20407,7 +20077,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 116.84 39.37 0)
+			(at 115.57 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20538,7 +20208,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 196.85 54.61 180)
+		(at 195.58 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -20549,7 +20219,7 @@
 		(fields_autoplaced yes)
 		(uuid "8d41379d-f281-45f0-86f1-c199aa30f13b")
 		(property "Reference" "D54"
-			(at 196.85 48.26 0)
+			(at 195.58 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20559,7 +20229,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 196.85 50.8 0)
+			(at 195.58 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -20569,7 +20239,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 196.85 50.165 0)
+			(at 195.58 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20580,7 +20250,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20591,7 +20261,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20602,7 +20272,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20613,7 +20283,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20624,7 +20294,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20635,7 +20305,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 196.85 54.61 0)
+			(at 195.58 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20876,7 +20546,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9209b28b-8384-46e7-86e4-293464915a44")
-		(property "Reference" "#PWR064"
+		(property "Reference" "#PWR066"
 			(at 63.5 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -20936,7 +20606,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR064")
+					(reference "#PWR066")
 					(unit 1)
 				)
 			)
@@ -20973,7 +20643,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 104.14 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -21082,7 +20752,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 250.19 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -21172,7 +20842,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "94d6d0c1-1a35-495b-b0dc-1764f6b97aa8")
-		(property "Reference" "#PWR0104"
+		(property "Reference" "#PWR0106"
 			(at 132.08 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -21232,7 +20902,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0104")
+					(reference "#PWR0106")
 					(unit 1)
 				)
 			)
@@ -21240,7 +20910,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 250.19 100.33 180)
+		(at 248.92 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21251,7 +20921,7 @@
 		(fields_autoplaced yes)
 		(uuid "95cb0844-a9fc-441e-b041-b6b14d1fb97b")
 		(property "Reference" "D76"
-			(at 250.19 93.98 0)
+			(at 248.92 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21261,7 +20931,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 250.19 96.52 0)
+			(at 248.92 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21271,7 +20941,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 250.19 95.885 0)
+			(at 248.92 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21282,7 +20952,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21293,7 +20963,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21304,7 +20974,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21315,7 +20985,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21326,7 +20996,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21337,7 +21007,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 250.19 100.33 0)
+			(at 248.92 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21374,7 +21044,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "96042c7f-0371-49fa-a7ab-ee758c12a905")
-		(property "Reference" "#PWR0113"
+		(property "Reference" "#PWR0115"
 			(at 152.4 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -21434,7 +21104,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0113")
+					(reference "#PWR0115")
 					(unit 1)
 				)
 			)
@@ -21452,7 +21122,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "988472a4-7a8b-48f9-a4b6-67a68cdc4c4d")
-		(property "Reference" "#PWR0108"
+		(property "Reference" "#PWR0110"
 			(at 151.13 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -21512,7 +21182,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0108")
+					(reference "#PWR0110")
 					(unit 1)
 				)
 			)
@@ -21520,7 +21190,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 54.61 180)
+		(at 142.24 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -21531,7 +21201,7 @@
 		(fields_autoplaced yes)
 		(uuid "98983121-f67d-43b2-aaad-e5208424f105")
 		(property "Reference" "D33"
-			(at 143.51 48.26 0)
+			(at 142.24 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21541,7 +21211,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 143.51 50.8 0)
+			(at 142.24 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -21551,7 +21221,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 143.51 50.165 0)
+			(at 142.24 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21562,7 +21232,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21573,7 +21243,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21584,7 +21254,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21595,7 +21265,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21606,7 +21276,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21617,7 +21287,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 143.51 54.61 0)
+			(at 142.24 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21654,7 +21324,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "989f816f-5ad8-4eae-97dc-1370f36801cf")
-		(property "Reference" "#PWR0127"
+		(property "Reference" "#PWR0129"
 			(at 181.61 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -21714,7 +21384,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0127")
+					(reference "#PWR0129")
 					(unit 1)
 				)
 			)
@@ -21855,7 +21525,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 162.56 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -21945,7 +21615,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a442869-c1ab-4a25-9a22-27b8e92c79e3")
-		(property "Reference" "#PWR097"
+		(property "Reference" "#PWR099"
 			(at 123.19 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -22005,7 +21675,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR097")
+					(reference "#PWR099")
 					(unit 1)
 				)
 			)
@@ -22023,7 +21693,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9a85fefa-4b44-468e-86dd-7edebccafc62")
-		(property "Reference" "#PWR083"
+		(property "Reference" "#PWR085"
 			(at 93.98 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -22083,7 +21753,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR083")
+					(reference "#PWR085")
 					(unit 1)
 				)
 			)
@@ -22101,7 +21771,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ade6007-d09c-4897-9d57-bddccd819d88")
-		(property "Reference" "#PWR093"
+		(property "Reference" "#PWR095"
 			(at 121.92 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -22161,7 +21831,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR093")
+					(reference "#PWR095")
 					(unit 1)
 				)
 			)
@@ -22375,7 +22045,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 69.85 180)
+		(at 142.24 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22386,7 +22056,7 @@
 		(fields_autoplaced yes)
 		(uuid "9b8fe42d-240f-4f39-acfb-6c6f30d982cc")
 		(property "Reference" "D34"
-			(at 143.51 63.5 0)
+			(at 142.24 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22396,7 +22066,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 143.51 66.04 0)
+			(at 142.24 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22406,7 +22076,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 143.51 65.405 0)
+			(at 142.24 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22417,7 +22087,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22428,7 +22098,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22439,7 +22109,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22450,7 +22120,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22461,7 +22131,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22472,7 +22142,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 143.51 69.85 0)
+			(at 142.24 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22509,7 +22179,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9c823afc-9e98-4a8c-bcbb-700863d08284")
-		(property "Reference" "#PWR0119"
+		(property "Reference" "#PWR0121"
 			(at 161.29 274.32 0)
 			(hide yes)
 			(show_name no)
@@ -22569,7 +22239,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0119")
+					(reference "#PWR0121")
 					(unit 1)
 				)
 			)
@@ -22577,7 +22247,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 90.17 54.61 180)
+		(at 88.9 54.61 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -22588,7 +22258,7 @@
 		(fields_autoplaced yes)
 		(uuid "9cfe0ecd-81ef-40f4-a71a-30bc7b6b4fcf")
 		(property "Reference" "D13"
-			(at 90.17 48.26 0)
+			(at 88.9 48.26 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22598,7 +22268,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 90.17 50.8 0)
+			(at 88.9 50.8 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -22608,7 +22278,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 90.17 50.165 0)
+			(at 88.9 50.165 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22619,7 +22289,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22630,7 +22300,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22641,7 +22311,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22652,7 +22322,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22663,7 +22333,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22674,7 +22344,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 90.17 54.61 0)
+			(at 88.9 54.61 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -22815,7 +22485,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9ddadbd3-edea-4d8d-9c10-e3711c4b1e7a")
-		(property "Reference" "#PWR0159"
+		(property "Reference" "#PWR0161"
 			(at 248.92 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -22875,7 +22545,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0159")
+					(reference "#PWR0161")
 					(unit 1)
 				)
 			)
@@ -23119,7 +22789,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 121.92 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -23209,7 +22879,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0236b6f-7045-4813-b230-003908eda52b")
-		(property "Reference" "#PWR0129"
+		(property "Reference" "#PWR0131"
 			(at 190.5 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -23269,7 +22939,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0129")
+					(reference "#PWR0131")
 					(unit 1)
 				)
 			)
@@ -23287,7 +22957,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a0ac9b4a-34f6-4401-aeec-95c35577cc11")
-		(property "Reference" "#PWR0162"
+		(property "Reference" "#PWR0164"
 			(at 248.92 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -23347,7 +23017,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0162")
+					(reference "#PWR0164")
 					(unit 1)
 				)
 			)
@@ -23365,7 +23035,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a19b587d-1be8-40f6-ae5c-6924a1545b0b")
-		(property "Reference" "#PWR0145"
+		(property "Reference" "#PWR0147"
 			(at 219.71 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -23425,7 +23095,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0145")
+					(reference "#PWR0147")
 					(unit 1)
 				)
 			)
@@ -23443,7 +23113,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a50e5e9d-b6c5-40df-a687-b4e8ebdb9037")
-		(property "Reference" "#PWR0152"
+		(property "Reference" "#PWR0154"
 			(at 238.76 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -23503,7 +23173,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0152")
+					(reference "#PWR0154")
 					(unit 1)
 				)
 			)
@@ -23521,7 +23191,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ab31ce4b-810c-499d-b295-8ac6b46fc910")
-		(property "Reference" "#PWR0139"
+		(property "Reference" "#PWR0141"
 			(at 209.55 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -23581,7 +23251,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0139")
+					(reference "#PWR0141")
 					(unit 1)
 				)
 			)
@@ -23599,7 +23269,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "acdcefc3-c8c9-4469-b330-7e02aeb030f4")
-		(property "Reference" "#PWR0143"
+		(property "Reference" "#PWR0145"
 			(at 210.82 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -23659,7 +23329,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0143")
+					(reference "#PWR0145")
 					(unit 1)
 				)
 			)
@@ -23696,7 +23366,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 191.77 209.55 0)
 			(hide yes)
 			(show_name no)
@@ -23786,7 +23456,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b1134583-c35f-4be5-8411-13011a441f97")
-		(property "Reference" "#PWR072"
+		(property "Reference" "#PWR074"
 			(at 73.66 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -23846,7 +23516,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR072")
+					(reference "#PWR074")
 					(unit 1)
 				)
 			)
@@ -23864,7 +23534,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b3bdfe3f-2576-4fcf-80d9-a87027189534")
-		(property "Reference" "#PWR0157"
+		(property "Reference" "#PWR0159"
 			(at 240.03 214.63 0)
 			(hide yes)
 			(show_name no)
@@ -23924,7 +23594,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0157")
+					(reference "#PWR0159")
 					(unit 1)
 				)
 			)
@@ -23942,7 +23612,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b42d0bc7-6798-40c9-838f-989b7b0e655e")
-		(property "Reference" "#PWR092"
+		(property "Reference" "#PWR094"
 			(at 121.92 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -24002,7 +23672,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR092")
+					(reference "#PWR094")
 					(unit 1)
 				)
 			)
@@ -24039,7 +23709,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 74.93 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -24129,7 +23799,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8de4e9f-08e1-4812-a2fe-39cf9dc0543f")
-		(property "Reference" "#PWR080"
+		(property "Reference" "#PWR082"
 			(at 93.98 156.21 0)
 			(hide yes)
 			(show_name no)
@@ -24189,7 +23859,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR080")
+					(reference "#PWR082")
 					(unit 1)
 				)
 			)
@@ -24309,7 +23979,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "baff90ee-af10-4854-a629-bc828193e1a3")
-		(property "Reference" "#PWR0123"
+		(property "Reference" "#PWR0125"
 			(at 180.34 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -24369,7 +24039,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0123")
+					(reference "#PWR0125")
 					(unit 1)
 				)
 			)
@@ -24387,7 +24057,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bc084925-ed03-4b84-9cde-a3ebe889eb9d")
-		(property "Reference" "#PWR0156"
+		(property "Reference" "#PWR0158"
 			(at 240.03 184.15 0)
 			(hide yes)
 			(show_name no)
@@ -24447,7 +24117,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0156")
+					(reference "#PWR0158")
 					(unit 1)
 				)
 			)
@@ -24465,7 +24135,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "bfe9d788-100c-4693-9075-20cf44e7a398")
-		(property "Reference" "#PWR0120"
+		(property "Reference" "#PWR0122"
 			(at 171.45 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -24525,7 +24195,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0120")
+					(reference "#PWR0122")
 					(unit 1)
 				)
 			)
@@ -24647,7 +24317,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c19442ec-3fd5-4b5a-a0d7-015a5a4e73b8")
-		(property "Reference" "#PWR0114"
+		(property "Reference" "#PWR0116"
 			(at 161.29 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -24707,7 +24377,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0114")
+					(reference "#PWR0116")
 					(unit 1)
 				)
 			)
@@ -24715,7 +24385,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 196.85 39.37 180)
+		(at 195.58 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -24726,7 +24396,7 @@
 		(fields_autoplaced yes)
 		(uuid "c2ad3ef9-2482-45bc-8908-7e1b7cd3a7e3")
 		(property "Reference" "D53"
-			(at 196.85 33.02 0)
+			(at 195.58 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24736,7 +24406,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 196.85 35.56 0)
+			(at 195.58 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -24746,7 +24416,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 196.85 34.925 0)
+			(at 195.58 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24757,7 +24427,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24768,7 +24438,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24779,7 +24449,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24790,7 +24460,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24801,7 +24471,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24812,7 +24482,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 196.85 39.37 0)
+			(at 195.58 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -24868,7 +24538,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 191.77 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -24958,7 +24628,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c50e1d02-2611-4a99-a15d-9a950c2eea6a")
-		(property "Reference" "#PWR094"
+		(property "Reference" "#PWR096"
 			(at 121.92 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -25018,7 +24688,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR094")
+					(reference "#PWR096")
 					(unit 1)
 				)
 			)
@@ -25036,7 +24706,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c66acc70-036a-4e1b-b87e-9b11d2ec9bbc")
-		(property "Reference" "#PWR0150"
+		(property "Reference" "#PWR0152"
 			(at 229.87 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -25096,7 +24766,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0150")
+					(reference "#PWR0152")
 					(unit 1)
 				)
 			)
@@ -25133,7 +24803,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 133.35 151.13 0)
 			(hide yes)
 			(show_name no)
@@ -25346,7 +25016,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 104.14 267.97 0)
 			(hide yes)
 			(show_name no)
@@ -25540,7 +25210,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cae42bf9-df05-400d-8db5-e65292b08573")
-		(property "Reference" "#PWR0133"
+		(property "Reference" "#PWR0135"
 			(at 190.5 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -25600,7 +25270,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0133")
+					(reference "#PWR0135")
 					(unit 1)
 				)
 			)
@@ -25608,7 +25278,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 85.09 180)
+		(at 142.24 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -25619,7 +25289,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb09d74e-e1f3-4ff3-87dd-5be3c2cfd9ef")
 		(property "Reference" "D35"
-			(at 143.51 78.74 0)
+			(at 142.24 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25629,7 +25299,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 143.51 81.28 0)
+			(at 142.24 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -25639,7 +25309,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 143.51 80.645 0)
+			(at 142.24 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25650,7 +25320,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25661,7 +25331,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25672,7 +25342,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25683,7 +25353,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25694,7 +25364,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25705,7 +25375,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 143.51 85.09 0)
+			(at 142.24 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -25968,7 +25638,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 121.92 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -26058,7 +25728,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cd4342f4-636d-4b65-a3d7-a66d9f6b1279")
-		(property "Reference" "#PWR0128"
+		(property "Reference" "#PWR0130"
 			(at 181.61 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -26118,7 +25788,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0128")
+					(reference "#PWR0130")
 					(unit 1)
 				)
 			)
@@ -26240,7 +25910,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d53a463f-1688-4004-877f-9007d5477db0")
-		(property "Reference" "#PWR0121"
+		(property "Reference" "#PWR0123"
 			(at 171.45 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -26300,7 +25970,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0121")
+					(reference "#PWR0123")
 					(unit 1)
 				)
 			)
@@ -26318,7 +25988,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d5534762-ed41-426f-9d2d-fc7a4dc131e7")
-		(property "Reference" "#PWR0107"
+		(property "Reference" "#PWR0109"
 			(at 151.13 142.24 0)
 			(hide yes)
 			(show_name no)
@@ -26378,7 +26048,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0107")
+					(reference "#PWR0109")
 					(unit 1)
 				)
 			)
@@ -26396,7 +26066,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d59c1306-3042-42f5-9382-39edb448697d")
-		(property "Reference" "#PWR0131"
+		(property "Reference" "#PWR0133"
 			(at 190.5 187.96 0)
 			(hide yes)
 			(show_name no)
@@ -26456,7 +26126,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0131")
+					(reference "#PWR0133")
 					(unit 1)
 				)
 			)
@@ -26578,7 +26248,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d8be24a9-7264-4831-8f2f-18778bcff8c1")
-		(property "Reference" "#PWR091"
+		(property "Reference" "#PWR093"
 			(at 113.03 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -26638,7 +26308,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR091")
+					(reference "#PWR093")
 					(unit 1)
 				)
 			)
@@ -26780,7 +26450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 238.76 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -26974,7 +26644,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "db7eaa55-06da-4409-8727-ea0a558c466a")
-		(property "Reference" "#PWR098"
+		(property "Reference" "#PWR0100"
 			(at 123.19 242.57 0)
 			(hide yes)
 			(show_name no)
@@ -27034,7 +26704,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR098")
+					(reference "#PWR0100")
 					(unit 1)
 				)
 			)
@@ -27176,7 +26846,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 238.76 236.22 0)
 			(hide yes)
 			(show_name no)
@@ -27370,7 +27040,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e3d7f657-e4c8-42f5-8167-afba04d94c7e")
-		(property "Reference" "#PWR076"
+		(property "Reference" "#PWR078"
 			(at 83.82 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27430,7 +27100,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR076")
+					(reference "#PWR078")
 					(unit 1)
 				)
 			)
@@ -27438,7 +27108,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 170.18 69.85 180)
+		(at 168.91 69.85 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -27449,7 +27119,7 @@
 		(fields_autoplaced yes)
 		(uuid "e6d60207-7acc-49be-92db-c2616e565c8b")
 		(property "Reference" "D44"
-			(at 170.18 63.5 0)
+			(at 168.91 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27459,7 +27129,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 170.18 66.04 0)
+			(at 168.91 66.04 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -27469,7 +27139,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 170.18 65.405 0)
+			(at 168.91 65.405 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27480,7 +27150,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27491,7 +27161,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27502,7 +27172,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27513,7 +27183,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27524,7 +27194,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27535,7 +27205,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 170.18 69.85 0)
+			(at 168.91 69.85 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -27572,7 +27242,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ea1381ba-d71d-4e17-a038-4bc1cb5e90fb")
-		(property "Reference" "#PWR0106"
+		(property "Reference" "#PWR0108"
 			(at 142.24 227.33 0)
 			(hide yes)
 			(show_name no)
@@ -27632,7 +27302,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0106")
+					(reference "#PWR0108")
 					(unit 1)
 				)
 			)
@@ -27670,7 +27340,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 92.71 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -27780,7 +27450,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
+		(property "Footprint" "Custom_Parts:LED_SK6812MINI-E_3.2x2.8mm_P1.5mm_ReverseMount"
 			(at 63.5 177.8 0)
 			(hide yes)
 			(show_name no)
@@ -27870,7 +27540,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ece7e695-3bdc-47a2-b61a-ec8b4feee484")
-		(property "Reference" "#PWR0132"
+		(property "Reference" "#PWR0134"
 			(at 190.5 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -27930,7 +27600,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0132")
+					(reference "#PWR0134")
 					(unit 1)
 				)
 			)
@@ -28052,7 +27722,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "efdffbcf-d6b1-483a-8fec-ec5654f8fbb4")
-		(property "Reference" "#PWR0117"
+		(property "Reference" "#PWR0119"
 			(at 161.29 215.9 0)
 			(hide yes)
 			(show_name no)
@@ -28112,7 +27782,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0117")
+					(reference "#PWR0119")
 					(unit 1)
 				)
 			)
@@ -28222,7 +27892,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 223.52 85.09 180)
+		(at 222.25 85.09 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28233,7 +27903,7 @@
 		(fields_autoplaced yes)
 		(uuid "f15640e6-ecf4-4625-94dc-5e9fadd0553c")
 		(property "Reference" "D66"
-			(at 223.52 78.74 0)
+			(at 222.25 78.74 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28243,7 +27913,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 223.52 81.28 0)
+			(at 222.25 81.28 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28253,7 +27923,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 223.52 80.645 0)
+			(at 222.25 80.645 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28264,7 +27934,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28275,7 +27945,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28286,7 +27956,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28297,7 +27967,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28308,7 +27978,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28319,7 +27989,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 223.52 85.09 0)
+			(at 222.25 85.09 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28562,7 +28232,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f404588b-85a7-4e45-a8e7-9d515311b365")
-		(property "Reference" "#PWR090"
+		(property "Reference" "#PWR092"
 			(at 113.03 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -28622,7 +28292,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR090")
+					(reference "#PWR092")
 					(unit 1)
 				)
 			)
@@ -28640,7 +28310,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f4078e2b-14c5-44d6-ad26-a28eea8e3e61")
-		(property "Reference" "#PWR078"
+		(property "Reference" "#PWR080"
 			(at 92.71 200.66 0)
 			(hide yes)
 			(show_name no)
@@ -28700,7 +28370,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR078")
+					(reference "#PWR080")
 					(unit 1)
 				)
 			)
@@ -28708,7 +28378,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 143.51 100.33 180)
+		(at 142.24 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28719,7 +28389,7 @@
 		(fields_autoplaced yes)
 		(uuid "f79192ae-ceda-451d-9741-b2f96e431341")
 		(property "Reference" "D36"
-			(at 143.51 93.98 0)
+			(at 142.24 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28729,7 +28399,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 143.51 96.52 0)
+			(at 142.24 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28739,7 +28409,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 143.51 95.885 0)
+			(at 142.24 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28750,7 +28420,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28761,7 +28431,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28772,7 +28442,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28783,7 +28453,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28794,7 +28464,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28805,7 +28475,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 143.51 100.33 0)
+			(at 142.24 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28842,7 +28512,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f8512fbc-623e-4700-8b92-e8fa412ae74a")
-		(property "Reference" "#PWR0118"
+		(property "Reference" "#PWR0120"
 			(at 161.29 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -28902,7 +28572,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0118")
+					(reference "#PWR0120")
 					(unit 1)
 				)
 			)
@@ -28910,7 +28580,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 186.69 100.33 180)
+		(at 191.77 100.33 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -28921,7 +28591,7 @@
 		(fields_autoplaced yes)
 		(uuid "f88c51ce-4be2-4c75-8dd4-af8612202094")
 		(property "Reference" "D49"
-			(at 186.69 93.98 0)
+			(at 191.77 93.98 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28931,7 +28601,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 186.69 96.52 0)
+			(at 191.77 96.52 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -28941,7 +28611,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 186.69 95.885 0)
+			(at 191.77 95.885 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28952,7 +28622,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28963,7 +28633,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28974,7 +28644,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28985,7 +28655,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -28996,7 +28666,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29007,7 +28677,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 186.69 100.33 0)
+			(at 191.77 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29044,7 +28714,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f932688f-c595-4018-a075-0e061f03ca72")
-		(property "Reference" "#PWR075"
+		(property "Reference" "#PWR077"
 			(at 83.82 168.91 0)
 			(hide yes)
 			(show_name no)
@@ -29104,7 +28774,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR075")
+					(reference "#PWR077")
 					(unit 1)
 				)
 			)
@@ -29122,7 +28792,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f94bde79-a7e3-49e2-a1af-f79429a11278")
-		(property "Reference" "#PWR0144"
+		(property "Reference" "#PWR0146"
 			(at 219.71 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -29182,7 +28852,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0144")
+					(reference "#PWR0146")
 					(unit 1)
 				)
 			)
@@ -29200,7 +28870,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f9f5303e-0977-461b-a63f-6d18b75bb4d4")
-		(property "Reference" "#PWR099"
+		(property "Reference" "#PWR0101"
 			(at 132.08 129.54 0)
 			(hide yes)
 			(show_name no)
@@ -29260,7 +28930,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR099")
+					(reference "#PWR0101")
 					(unit 1)
 				)
 			)
@@ -29278,7 +28948,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb3df30c-117a-4ad1-b00d-f213c27458c5")
-		(property "Reference" "#PWR0148"
+		(property "Reference" "#PWR0150"
 			(at 219.71 246.38 0)
 			(hide yes)
 			(show_name no)
@@ -29338,7 +29008,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0148")
+					(reference "#PWR0150")
 					(unit 1)
 				)
 			)
@@ -29356,7 +29026,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fb6bbad0-41cf-4d1f-a042-5bb1fd9e40a6")
-		(property "Reference" "#PWR0124"
+		(property "Reference" "#PWR0126"
 			(at 180.34 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -29416,7 +29086,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0124")
+					(reference "#PWR0126")
 					(unit 1)
 				)
 			)
@@ -29536,7 +29206,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fc3239ae-a8a8-475c-b294-5388cf5ac1d3")
-		(property "Reference" "#PWR0115"
+		(property "Reference" "#PWR0117"
 			(at 161.29 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -29596,7 +29266,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0115")
+					(reference "#PWR0117")
 					(unit 1)
 				)
 			)
@@ -29604,7 +29274,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 250.19 39.37 180)
+		(at 248.92 39.37 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -29615,7 +29285,7 @@
 		(fields_autoplaced yes)
 		(uuid "fdbc8144-8d87-4f87-8a3e-4aa3e3715a9c")
 		(property "Reference" "D72"
-			(at 250.19 33.02 0)
+			(at 248.92 33.02 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29625,7 +29295,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 250.19 35.56 0)
+			(at 248.92 35.56 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -29635,7 +29305,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 250.19 34.925 0)
+			(at 248.92 34.925 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29646,7 +29316,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29657,7 +29327,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29668,7 +29338,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29679,7 +29349,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29690,7 +29360,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29701,7 +29371,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 250.19 39.37 0)
+			(at 248.92 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -29738,7 +29408,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fe3598c0-c9db-4e9b-b39b-48d342c73d54")
-		(property "Reference" "#PWR0154"
+		(property "Reference" "#PWR0156"
 			(at 238.76 259.08 0)
 			(hide yes)
 			(show_name no)
@@ -29798,7 +29468,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
-					(reference "#PWR0154")
+					(reference "#PWR0156")
 					(unit 1)
 				)
 			)

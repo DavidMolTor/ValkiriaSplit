@@ -511,6 +511,41 @@
         "via_diameter": 0.6,
         "via_drill": 0.3,
         "wire_width": 6
+      },
+      {
+        "name": "DATA",
+        "pcb_color": "rgb(0, 132, 0)",
+        "priority": 2,
+        "schematic_color": "rgb(0, 132, 0)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "DEBUG",
+        "pcb_color": "rgb(194, 0, 194)",
+        "priority": 0,
+        "schematic_color": "rgb(194, 0, 194)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "MATRIX",
+        "pcb_color": "rgb(221, 133, 0)",
+        "priority": 1,
+        "schematic_color": "rgb(221, 133, 0)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "PGND",
+        "pcb_color": "rgb(132, 132, 132)",
+        "priority": 4,
+        "schematic_color": "rgb(132, 132, 132)",
+        "tuning_profile": ""
+      },
+      {
+        "name": "POWER",
+        "pcb_color": "rgb(194, 0, 0)",
+        "priority": 3,
+        "schematic_color": "rgb(194, 0, 0)",
+        "tuning_profile": ""
       }
     ],
     "meta": {
@@ -518,7 +553,76 @@
     },
     "net_colors": null,
     "netclass_assignments": null,
-    "netclass_patterns": []
+    "netclass_patterns": [
+      {
+        "netclass": "PGND",
+        "pattern": "GND"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "5V*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "3V3*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VB*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "VREG*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*/VSW*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*/VFB*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*/VBAT*"
+      },
+      {
+        "netclass": "MATRIX",
+        "pattern": "ROW*"
+      },
+      {
+        "netclass": "MATRIX",
+        "pattern": "COL*"
+      },
+      {
+        "netclass": "MATRIX",
+        "pattern": "*/ENC*"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/*LCD*"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/*BKL*"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "LED_DATA*"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/LED*"
+      },
+      {
+        "netclass": "DEBUG",
+        "pattern": "*/*RESET*"
+      },
+      {
+        "netclass": "DEBUG",
+        "pattern": "*/*SWD*"
+      }
+    ]
   },
   "pcbnew": {
     "last_paths": {
@@ -697,7 +801,7 @@
         "uuid": "7a2b6783-81dc-46bd-bbde-89342e0b1c5b"
       }
     ],
-    "used_designators": "L1-2,D1-146,#PWR1-272,C1-84,SW1-94,#FLG1-14,R1-16,R37-40,J1-8,Q1-5,U1-4",
+    "used_designators": "L1-2,D1-146,#PWR1-273,C1-84,SW1-94,#FLG1-14,R1-17,R37-40,J1-8,Q1-5,U1-4",
     "variants": []
   },
   "sheets": [
