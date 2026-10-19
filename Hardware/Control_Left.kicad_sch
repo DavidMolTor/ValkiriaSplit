@@ -3058,6 +3058,12 @@
 		(uuid "41432977-5b13-4bf1-b1ba-44835669c394")
 	)
 	(junction
+		(at 106.68 139.7)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "462e8070-19b6-460b-bf07-1da079f9b79e")
+	)
+	(junction
 		(at 96.52 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -3180,6 +3186,16 @@
 			(type default)
 		)
 		(uuid "04cdb6b6-899a-43c1-8fe4-84a9e667fcf1")
+	)
+	(wire
+		(pts
+			(xy 106.68 139.7) (xy 106.68 149.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0619f31c-d549-4fca-8b30-e40ebfb56fcd")
 	)
 	(wire
 		(pts
@@ -3313,7 +3329,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 80.01) (xy 144.78 80.01)
+			(xy 144.78 80.01) (xy 154.94 80.01)
 		)
 		(stroke
 			(width 0)
@@ -3993,16 +4009,6 @@
 	)
 	(wire
 		(pts
-			(xy 93.98 62.23) (xy 96.52 62.23)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c097ffa8-5fba-48f4-803e-be9938014af9")
-	)
-	(wire
-		(pts
 			(xy 127 127) (xy 127 137.16)
 		)
 		(stroke
@@ -4023,6 +4029,16 @@
 	)
 	(wire
 		(pts
+			(xy 106.68 157.48) (xy 106.68 160.02)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c8ab48cf-ff76-4e68-b76e-a2529fece7a7")
+	)
+	(wire
+		(pts
 			(xy 96.52 72.39) (xy 83.82 72.39)
 		)
 		(stroke
@@ -4040,6 +4056,16 @@
 			(type default)
 		)
 		(uuid "cab510f2-343f-4aac-8756-c4445ae93d1c")
+	)
+	(wire
+		(pts
+			(xy 82.55 62.23) (xy 96.52 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd984fd9-7196-41d8-a506-1cf71e020d06")
 	)
 	(wire
 		(pts
@@ -4090,6 +4116,16 @@
 			(type default)
 		)
 		(uuid "d73c1242-ad29-4b48-b62c-f59ab71d112c")
+	)
+	(wire
+		(pts
+			(xy 106.68 139.7) (xy 104.14 139.7)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7d1005c-c214-4673-83ca-78d7a7e6ec2f")
 	)
 	(wire
 		(pts
@@ -4371,16 +4407,6 @@
 		)
 		(uuid "024179ef-a75a-4dfa-b774-722954a49446")
 	)
-	(label "LED_EN"
-		(at 147.32 80.01 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "0458acf6-3dbe-4de3-a264-1606e41bc46a")
-	)
 	(label "SWDIO"
 		(at 93.98 82.55 180)
 		(effects
@@ -4420,6 +4446,16 @@
 			(justify right bottom)
 		)
 		(uuid "2ce10c7a-502b-46fa-b810-6f96ba17a496")
+	)
+	(label "LED_EN"
+		(at 82.55 62.23 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "44aca248-d630-4617-a5b4-cc456f34afde")
 	)
 	(label "BKLG"
 		(at 207.01 93.98 180)
@@ -4522,7 +4558,7 @@
 		(uuid "ce09ef7d-eacc-4e38-94be-028ea43d6194")
 	)
 	(label "LED_EN"
-		(at 106.68 139.7 180)
+		(at 104.14 139.7 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4663,30 +4699,6 @@
 			)
 		)
 	)
-	(global_label "COL7_L"
-		(shape input)
-		(at 93.98 62.23 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "29457d1b-9b6f-4ce8-b80c-3ac95848000d")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 83.1934 62.23 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-	)
 	(global_label "ROW2_L"
 		(shape input)
 		(at 147.32 62.23 0)
@@ -4732,6 +4744,30 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
+			)
+		)
+	)
+	(global_label "ROW6_L"
+		(shape input)
+		(at 154.94 80.01 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5521cc4a-4b27-4ad4-a0a1-abbdcd779fc5")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 165.1823 80.01 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 			)
 		)
 	)
@@ -5310,7 +5346,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "077cd4c8-b7d8-44fe-adba-7bae7d69a2af")
-		(property "Reference" "#PWR016"
+		(property "Reference" "#PWR017"
 			(at 125.73 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -5370,7 +5406,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR016")
+					(reference "#PWR017")
 					(unit 1)
 				)
 			)
@@ -5388,7 +5424,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "08121eef-59d9-4208-beab-66c866576f43")
-		(property "Reference" "#PWR027"
+		(property "Reference" "#PWR028"
 			(at 234.95 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5448,7 +5484,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR027")
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -5466,7 +5502,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "088c6a3c-9e2c-4025-8ab7-80651739c89e")
-		(property "Reference" "#PWR028"
+		(property "Reference" "#PWR029"
 			(at 236.22 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -5526,7 +5562,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR028")
+					(reference "#PWR029")
 					(unit 1)
 				)
 			)
@@ -5544,7 +5580,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "09ac0371-c1ad-4f54-9aba-149d6e42e3a0")
-		(property "Reference" "#PWR024"
+		(property "Reference" "#PWR025"
 			(at 215.9 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -5604,7 +5640,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR024")
+					(reference "#PWR025")
 					(unit 1)
 				)
 			)
@@ -5700,7 +5736,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "1837a04f-6b7c-4a38-be88-80e1cc505830")
-		(property "Reference" "#PWR015"
+		(property "Reference" "#PWR016"
 			(at 120.65 106.68 0)
 			(hide yes)
 			(show_name no)
@@ -5760,7 +5796,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR015")
+					(reference "#PWR016")
 					(unit 1)
 				)
 			)
@@ -6251,7 +6287,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "21fffb7f-a18f-40f7-b839-b2a391c6d99b")
-		(property "Reference" "#PWR022"
+		(property "Reference" "#PWR023"
 			(at 215.9 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -6311,7 +6347,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR022")
+					(reference "#PWR023")
 					(unit 1)
 				)
 			)
@@ -6485,7 +6521,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2ee97f27-9307-43fb-9891-e3d84c94aded")
-		(property "Reference" "#PWR026"
+		(property "Reference" "#PWR027"
 			(at 232.41 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -6545,7 +6581,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR026")
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -6743,7 +6779,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4ac3fdf0-a951-4293-b2c8-daaf1df2b4c7")
-		(property "Reference" "#PWR023"
+		(property "Reference" "#PWR024"
 			(at 215.9 90.17 0)
 			(hide yes)
 			(show_name no)
@@ -6803,7 +6839,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR023")
+					(reference "#PWR024")
 					(unit 1)
 				)
 			)
@@ -6821,7 +6857,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "4da4eb88-ddcc-4e4d-9d90-aa2493c070f7")
-		(property "Reference" "R3"
+		(property "Reference" "R4"
 			(at 135.89 142.2399 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6907,7 +6943,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R3")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -6925,7 +6961,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "549c3428-e400-4dcf-a229-c70ceefae2a9")
-		(property "Reference" "#PWR019"
+		(property "Reference" "#PWR020"
 			(at 156.21 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -6985,7 +7021,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR019")
+					(reference "#PWR020")
 					(unit 1)
 				)
 			)
@@ -7187,7 +7223,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "641720f5-7824-4f0f-ba9c-f2fd9dc2fb4f")
-		(property "Reference" "#PWR025"
+		(property "Reference" "#PWR026"
 			(at 227.33 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7247,7 +7283,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR025")
+					(reference "#PWR026")
 					(unit 1)
 				)
 			)
@@ -7628,7 +7664,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6d1495e6-b421-43d7-bfa3-6ab52bb9e7b2")
-		(property "Reference" "#PWR018"
+		(property "Reference" "#PWR019"
 			(at 156.21 139.7 0)
 			(hide yes)
 			(show_name no)
@@ -7688,7 +7724,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR018")
+					(reference "#PWR019")
 					(unit 1)
 				)
 			)
@@ -7706,7 +7742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "75bf3bd5-7669-4339-9485-7ec1cd7c80ee")
-		(property "Reference" "#PWR014"
+		(property "Reference" "#PWR015"
 			(at 120.65 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -7766,7 +7802,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR014")
+					(reference "#PWR015")
 					(unit 1)
 				)
 			)
@@ -7784,7 +7820,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "773dcbdc-8a92-48b6-a155-2bf9d874d063")
-		(property "Reference" "#PWR029"
+		(property "Reference" "#PWR030"
 			(at 238.76 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -7844,7 +7880,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR029")
+					(reference "#PWR030")
 					(unit 1)
 				)
 			)
@@ -7862,7 +7898,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "788c81bc-9241-4d79-8876-6dc509ae6a7c")
-		(property "Reference" "#PWR012"
+		(property "Reference" "#PWR013"
 			(at 115.57 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -7922,7 +7958,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR012")
+					(reference "#PWR013")
 					(unit 1)
 				)
 			)
@@ -7939,7 +7975,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "8455dca1-e664-4f6d-b6dc-158549c58531")
-		(property "Reference" "R6"
+		(property "Reference" "R7"
 			(at 201.93 104.14 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8023,7 +8059,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R6")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -8353,7 +8389,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "975d5f8d-de1f-4f8d-bea0-fec8a9d9c3c0")
-		(property "Reference" "#PWR031"
+		(property "Reference" "#PWR032"
 			(at 250.19 55.88 0)
 			(hide yes)
 			(show_name no)
@@ -8413,7 +8449,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR031")
+					(reference "#PWR032")
 					(unit 1)
 				)
 			)
@@ -8430,7 +8466,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "97d22a7e-1665-4b13-8dd2-726dbcc54168")
-		(property "Reference" "R8"
+		(property "Reference" "R9"
 			(at 222.25 99.06 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8514,7 +8550,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R8")
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -8532,7 +8568,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d626c9e-7861-4f0e-83f1-5cbbad68aca3")
-		(property "Reference" "R4"
+		(property "Reference" "R5"
 			(at 135.89 152.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8618,7 +8654,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R4")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -8636,7 +8672,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "9d780e14-774b-4758-ad56-8ceffccf8781")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 204.47 97.7899 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8722,7 +8758,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -8844,7 +8880,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a5b2c024-e6e0-4faf-8ca6-0c829e2b7247")
-		(property "Reference" "#PWR021"
+		(property "Reference" "#PWR022"
 			(at 204.47 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -8904,7 +8940,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR021")
+					(reference "#PWR022")
 					(unit 1)
 				)
 			)
@@ -8922,7 +8958,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a69b24a9-3ea0-45fb-834f-29b344b40ae5")
-		(property "Reference" "#PWR030"
+		(property "Reference" "#PWR031"
 			(at 241.3 133.35 0)
 			(hide yes)
 			(show_name no)
@@ -8982,7 +9018,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR030")
+					(reference "#PWR031")
 					(unit 1)
 				)
 			)
@@ -9183,6 +9219,84 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 106.68 160.02 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4a70524-e0f0-42b4-a94e-e5052c6d9dc4")
+		(property "Reference" "#PWR012"
+			(at 106.68 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 106.68 165.1 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 106.68 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 106.68 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f243aee8-e1dc-4a8a-b1b4-4b739a10ff01")
+		)
+		(instances
+			(project "ValkiriaSplit"
+				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+3V3")
 		(at 196.85 107.95 0)
 		(unit 1)
@@ -9194,7 +9308,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b6a3741f-2651-4f08-ad51-f47beb49d85a")
-		(property "Reference" "#PWR020"
+		(property "Reference" "#PWR021"
 			(at 196.85 111.76 0)
 			(hide yes)
 			(show_name no)
@@ -9254,7 +9368,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR020")
+					(reference "#PWR021")
 					(unit 1)
 				)
 			)
@@ -9556,7 +9670,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c58c8f30-ef4c-49e6-a28f-5635b3f97bd1")
-		(property "Reference" "R5"
+		(property "Reference" "R6"
 			(at 196.85 88.9 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9640,7 +9754,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R5")
+					(reference "R6")
 					(unit 1)
 				)
 			)
@@ -9658,7 +9772,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c88fc71d-b3c1-44fe-9981-9ec9b6f14bc7")
-		(property "Reference" "#PWR017"
+		(property "Reference" "#PWR018"
 			(at 138.43 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -9718,7 +9832,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR017")
+					(reference "#PWR018")
 					(unit 1)
 				)
 			)
@@ -10033,6 +10147,109 @@
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
 					(reference "Q1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 106.68 153.67 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "e8bd9736-285d-4dbd-9eee-4fc3be545b63")
+		(property "Reference" "R3"
+			(at 109.22 152.3999 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "10K"
+			(at 109.22 154.9399 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
+			(at 108.458 153.67 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 106.68 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 106.68 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "JLC Part" "0603WAF1002T5E"
+			(at 106.68 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Manufacturer Part" "0603WAF1002T5E"
+			(at 106.68 153.67 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "77bc5912-7067-47ff-ad05-a20e1eb721c0")
+		)
+		(pin "1"
+			(uuid "c062c92d-72af-4472-99b2-91f4979c8684")
+		)
+		(instances
+			(project "ValkiriaSplit"
+				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -10544,7 +10761,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ffa742fb-35fa-4341-8947-a55c800a887f")
-		(property "Reference" "#PWR013"
+		(property "Reference" "#PWR014"
 			(at 116.84 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -10604,7 +10821,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "#PWR013")
+					(reference "#PWR014")
 					(unit 1)
 				)
 			)
