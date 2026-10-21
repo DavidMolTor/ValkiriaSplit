@@ -1625,7 +1625,7 @@
 		)
 		(uuid "3a73de85-907c-4861-8936-39b91545fe91")
 	)
-	(text_box "ENCODER"
+	(text_box "ROTARY ENCODER"
 		(exclude_from_sim no)
 		(at 273.05 22.86 0)
 		(size 123.19 106.68)
@@ -1886,12 +1886,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "715c0053-dfe7-4aeb-a5b6-a3d708fa03ea")
-	)
-	(junction
-		(at 227.33 115.57)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "738da6b8-5874-4306-bdf6-c6c262d85421")
 	)
 	(junction
 		(at 323.85 76.2)
@@ -2303,6 +2297,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 71.12) (xy 364.49 71.12)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0a6b6bfe-88a9-405d-a9eb-f51a7949b65f")
+	)
+	(wire
+		(pts
 			(xy 99.06 69.85) (xy 100.33 69.85)
 		)
 		(stroke
@@ -2393,7 +2397,7 @@
 	)
 	(wire
 		(pts
-			(xy 238.76 115.57) (xy 238.76 120.65)
+			(xy 233.68 115.57) (xy 233.68 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3143,16 +3147,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 115.57) (xy 224.79 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "43406214-9a05-478e-a897-92e1a97d8c76")
-	)
-	(wire
-		(pts
 			(xy 205.74 54.61) (xy 207.01 54.61)
 		)
 		(stroke
@@ -3330,16 +3324,6 @@
 			(type default)
 		)
 		(uuid "58dbca6a-5703-40e8-902c-86f716505644")
-	)
-	(wire
-		(pts
-			(xy 361.95 71.12) (xy 364.49 71.12)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5b22acb0-54b0-4b7e-8824-9b47aa83ecc4")
 	)
 	(wire
 		(pts
@@ -3683,6 +3667,16 @@
 	)
 	(wire
 		(pts
+			(xy 361.95 76.2) (xy 364.49 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71bc0156-01d7-4fe8-bbfe-763c6b03248a")
+	)
+	(wire
+		(pts
 			(xy 163.83 234.95) (xy 163.83 236.22)
 		)
 		(stroke
@@ -3803,7 +3797,7 @@
 	)
 	(wire
 		(pts
-			(xy 207.01 120.65) (xy 238.76 120.65)
+			(xy 207.01 120.65) (xy 233.68 120.65)
 		)
 		(stroke
 			(width 0)
@@ -3850,26 +3844,6 @@
 			(type default)
 		)
 		(uuid "7cfe07c5-60e6-4d59-a3db-8159be9ece66")
-	)
-	(wire
-		(pts
-			(xy 224.79 119.38) (xy 227.33 119.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d33623f-57ce-4534-ac75-790ba30594db")
-	)
-	(wire
-		(pts
-			(xy 229.87 115.57) (xy 227.33 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "7d461ac8-77cb-4a60-b371-2e9c40a85609")
 	)
 	(wire
 		(pts
@@ -4513,6 +4487,16 @@
 	)
 	(wire
 		(pts
+			(xy 364.49 76.2) (xy 364.49 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aaf49d9a-2dba-43f9-b099-70944d8b3300")
+	)
+	(wire
+		(pts
 			(xy 83.82 252.73) (xy 97.79 252.73)
 		)
 		(stroke
@@ -4623,7 +4607,7 @@
 	)
 	(wire
 		(pts
-			(xy 237.49 115.57) (xy 238.76 115.57)
+			(xy 232.41 115.57) (xy 233.68 115.57)
 		)
 		(stroke
 			(width 0)
@@ -4660,16 +4644,6 @@
 			(type default)
 		)
 		(uuid "b5fd96e8-576c-48ac-90d0-66fb21355617")
-	)
-	(wire
-		(pts
-			(xy 361.95 76.2) (xy 364.49 76.2)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b6b837c4-6eca-41b9-b486-3070c57e2a4f")
 	)
 	(wire
 		(pts
@@ -5353,16 +5327,6 @@
 	)
 	(wire
 		(pts
-			(xy 227.33 119.38) (xy 227.33 115.57)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f9a68eec-313f-4687-b3c6-3b244aef7e5f")
-	)
-	(wire
-		(pts
 			(xy 193.04 236.22) (xy 193.04 245.11)
 		)
 		(stroke
@@ -5400,26 +5364,6 @@
 			(type default)
 		)
 		(uuid "ffacabf1-7865-430f-a410-6267598bb91f")
-	)
-	(label "ENC_SW"
-		(at 364.49 76.2 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left bottom)
-		)
-		(uuid "11f0c973-817e-4296-8446-0fd676306950")
-	)
-	(label "ENC_SW"
-		(at 224.79 119.38 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "793c012f-1603-4356-a520-7de4f276ee1b")
 	)
 	(label "ENC_CC"
 		(at 342.9 76.2 180)
@@ -5513,6 +5457,30 @@
 			)
 		)
 	)
+	(global_label "ENC_SW_R"
+		(shape output)
+		(at 364.49 71.12 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "360f33d6-04dc-4108-b1ab-c0e1495a059a")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 377.0908 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+	)
 	(global_label "ROW3_L"
 		(shape output)
 		(at 67.31 90.17 180)
@@ -5582,30 +5550,6 @@
 					(size 1.27 1.27)
 				)
 				(justify right)
-			)
-		)
-	)
-	(global_label "COL6_L"
-		(shape output)
-		(at 364.49 71.12 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify left)
-		)
-		(uuid "6ee0c10a-2dff-4100-b560-1ce9371e2494")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 374.309 71.12 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
 			)
 		)
 	)
@@ -9283,6 +9227,84 @@
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
 					(reference "SW23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 364.49 86.36 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2dcb97d8-e7c1-483b-bbf4-a946f3692e5a")
+		(property "Reference" "#PWR0254"
+			(at 364.49 92.71 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 364.49 91.44 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 364.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 364.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 364.49 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "3b46e14f-2200-4efe-accd-d49490b42ab4")
+		)
+		(instances
+			(project "ValkiriaSplit"
+				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/e947cf9a-ba73-4488-995e-2b26770a6850"
+					(reference "#PWR0254")
 					(unit 1)
 				)
 			)
@@ -13956,7 +13978,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148WT")
-		(at 233.68 115.57 180)
+		(at 228.6 115.57 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -13967,7 +13989,7 @@
 		(fields_autoplaced yes)
 		(uuid "4f702949-0b32-4034-a8b5-32f56fd96650")
 		(property "Reference" "D60"
-			(at 233.68 109.22 0)
+			(at 228.6 109.22 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13977,7 +13999,7 @@
 			)
 		)
 		(property "Value" "1N4148WT"
-			(at 233.68 111.76 0)
+			(at 228.6 111.76 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -13987,7 +14009,7 @@
 			)
 		)
 		(property "Footprint" "Diode_SMD:D_SOD-523"
-			(at 233.68 111.125 0)
+			(at 228.6 111.125 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13998,7 +14020,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.diodes.com/assets/Datasheets/ds30396.pdf"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14009,7 +14031,7 @@
 			)
 		)
 		(property "Description" "75V 0.15A Fast switching Diode, SOD-523"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14020,7 +14042,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14031,7 +14053,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14042,7 +14064,7 @@
 			)
 		)
 		(property "JLC Part" "C7420320"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14053,7 +14075,7 @@
 			)
 		)
 		(property "Manufacturer Part" "1N4148WT"
-			(at 233.68 115.57 0)
+			(at 228.6 115.57 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
