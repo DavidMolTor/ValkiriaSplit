@@ -631,6 +631,10 @@
       {
         "netclass": "MATRIX",
         "pattern": "ENC*"
+      },
+      {
+        "netclass": "POWER",
+        "pattern": "*/VCOM*"
       }
     ]
   },
