@@ -3630,7 +3630,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 53.34) (xy 90.17 53.34)
+			(xy 69.85 53.34) (xy 90.17 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3970,7 +3970,7 @@
 	)
 	(wire
 		(pts
-			(xy 72.39 62.23) (xy 72.39 53.34)
+			(xy 69.85 62.23) (xy 69.85 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4380,7 +4380,7 @@
 	)
 	(wire
 		(pts
-			(xy 63.5 62.23) (xy 72.39 62.23)
+			(xy 63.5 62.23) (xy 69.85 62.23)
 		)
 		(stroke
 			(width 0)
@@ -4597,16 +4597,6 @@
 			(type default)
 		)
 		(uuid "daa90a09-3e15-479c-a4c2-b27e68936028")
-	)
-	(wire
-		(pts
-			(xy 87.63 66.04) (xy 90.17 66.04)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "db2b5a28-a683-4651-a34e-4e2c84e0f15c")
 	)
 	(wire
 		(pts
@@ -5273,30 +5263,6 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
-			)
-		)
-	)
-	(global_label "ROW5_L"
-		(shape input)
-		(at 87.63 66.04 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "bc0181c1-f633-4dc7-9685-3ed3db6675e2")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.811 66.04 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
 			)
 		)
 	)
