@@ -605,12 +605,8 @@
         "pattern": "*/ENC*"
       },
       {
-        "netclass": "DATA",
-        "pattern": "*/*LCD*"
-      },
-      {
-        "netclass": "DATA",
-        "pattern": "*/*BKL*"
+        "netclass": "POWER",
+        "pattern": "*/*MIP_V*"
       },
       {
         "netclass": "DATA",
@@ -633,8 +629,20 @@
         "pattern": "ENC*"
       },
       {
-        "netclass": "POWER",
-        "pattern": "*/VCOM*"
+        "netclass": "DATA",
+        "pattern": "*/MIP_SCK"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/MIP_MOSI"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/MIP_EN"
+      },
+      {
+        "netclass": "DATA",
+        "pattern": "*/MIP_CS"
       }
     ]
   },
@@ -815,7 +823,7 @@
         "uuid": "7a2b6783-81dc-46bd-bbde-89342e0b1c5b"
       }
     ],
-    "used_designators": "L1-3,D1-160,#PWR1-281,C1-84,SW1-94,#FLG1-17,R1-40,J1-9,Q1-6,U1-6,H1-4,FID1-4",
+    "used_designators": "L1-3,D1-160,#PWR1-281,C1-84,SW1-94,#FLG1-17,R1-40,J1-9,Q1-6,U1-6,H1-4,FID1-4,FB1-4",
     "variants": []
   },
   "sheets": [
