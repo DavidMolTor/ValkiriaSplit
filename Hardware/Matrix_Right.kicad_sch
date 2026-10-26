@@ -5133,7 +5133,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 123.19 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5177,7 +5177,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 127 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -5188,7 +5188,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 127 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6438,7 +6438,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 240.03 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6482,7 +6482,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -6493,7 +6493,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 243.84 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7544,7 +7544,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 181.61 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7588,7 +7588,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 185.42 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -7599,7 +7599,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 185.42 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -7649,7 +7649,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 181.61 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7693,7 +7693,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 185.42 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -7704,7 +7704,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 185.42 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -8034,7 +8034,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 231.14 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8078,7 +8078,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 234.95 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -8089,7 +8089,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 234.95 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -9473,7 +9473,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 55.88 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9517,7 +9517,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 59.69 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -9528,7 +9528,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 59.69 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -9781,7 +9781,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 64.77 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9825,7 +9825,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 68.58 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -9836,7 +9836,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 68.58 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -9886,7 +9886,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 172.72 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9930,7 +9930,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 176.53 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -9941,7 +9941,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 176.53 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -9991,7 +9991,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 85.09 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10035,7 +10035,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 88.9 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -10046,7 +10046,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 88.9 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -12002,7 +12002,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 152.4 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12046,7 +12046,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 156.21 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12057,7 +12057,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 156.21 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -12548,7 +12548,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 64.77 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12592,7 +12592,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 68.58 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -12603,7 +12603,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 68.58 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -13979,7 +13979,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 114.3 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14023,7 +14023,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 118.11 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -14034,7 +14034,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 118.11 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -14375,7 +14375,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 260.35 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14419,7 +14419,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 264.16 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -14430,7 +14430,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 264.16 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -14871,7 +14871,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 143.51 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14915,7 +14915,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 147.32 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -14926,7 +14926,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 147.32 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -15258,7 +15258,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 93.98 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15302,7 +15302,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 97.79 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15313,7 +15313,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 97.79 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -15958,7 +15958,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 210.82 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16002,7 +16002,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 214.63 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16013,7 +16013,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 214.63 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16493,7 +16493,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 269.24 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16537,7 +16537,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 273.05 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16548,7 +16548,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 273.05 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -16756,7 +16756,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 201.93 203.1999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -16800,7 +16800,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 205.74 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -16811,7 +16811,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 205.74 201.93 0)
 			(hide yes)
 			(show_name no)
@@ -17128,7 +17128,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 93.98 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17172,7 +17172,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 97.79 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -17183,7 +17183,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 97.79 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -17673,7 +17673,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 123.19 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -17717,7 +17717,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 127 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -17728,7 +17728,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 127 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -18015,7 +18015,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 269.24 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -18059,7 +18059,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 273.05 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -18070,7 +18070,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 273.05 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -19118,7 +19118,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 240.03 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -19162,7 +19162,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 243.84 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -19173,7 +19173,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 243.84 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -20607,7 +20607,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 210.82 229.8699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -20651,7 +20651,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 214.63 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -20662,7 +20662,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 214.63 228.6 0)
 			(hide yes)
 			(show_name no)
@@ -21751,7 +21751,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1u"
+		(property "Value" "100n"
 			(at 152.4 171.4499 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -21795,7 +21795,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C15849"
+		(property "JLC Part" "C14663"
 			(at 156.21 170.18 0)
 			(hide yes)
 			(show_name no)
@@ -21806,7 +21806,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "CL10A105KB8NNNC"
+		(property "Manufacturer Part" "CC0603KRX7R9BB104"
 			(at 156.21 170.18 0)
 			(hide yes)
 			(show_name no)
