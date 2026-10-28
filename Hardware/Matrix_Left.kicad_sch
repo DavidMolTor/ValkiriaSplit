@@ -5733,7 +5733,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 139.7 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -5914,7 +5914,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 139.7 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -6095,7 +6095,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 166.37 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -6619,7 +6619,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 113.03 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -6721,7 +6721,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 219.71 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -7759,7 +7759,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 166.37 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -7939,7 +7939,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 193.04 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -8244,7 +8244,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 193.04 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -8346,7 +8346,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 113.03 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -9697,7 +9697,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 166.37 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10799,7 +10799,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 193.04 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -12692,7 +12692,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 139.7 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -13641,7 +13641,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 86.36 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -15878,7 +15878,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 166.37 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -16436,7 +16436,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 86.36 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -17190,7 +17190,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 139.7 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17397,7 +17397,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 113.03 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -17578,7 +17578,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 219.71 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -17979,7 +17979,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 219.71 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -18081,7 +18081,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 86.36 102.87 0)
 			(hide yes)
 			(show_name no)
@@ -18341,7 +18341,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 193.04 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -19791,7 +19791,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 219.71 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -21314,7 +21314,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 86.36 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -21916,7 +21916,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB"
+		(property "Footprint" "Custom_Parts:PG1350_1.00u_PCB_TIGHT"
 			(at 113.03 72.39 0)
 			(hide yes)
 			(show_name no)

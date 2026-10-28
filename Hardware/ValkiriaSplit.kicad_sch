@@ -426,7 +426,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "Tooling"
 			(at 107.95 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -524,7 +524,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "Tooling"
 			(at 88.9 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -622,7 +622,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "Tooling"
 			(at 68.58 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -720,7 +720,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "MountingHole"
+		(property "Value" "Tooling"
 			(at 127 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)

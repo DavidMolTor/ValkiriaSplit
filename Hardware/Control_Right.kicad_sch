@@ -626,62 +626,6 @@
 						)
 					)
 				)
-				(pin bidirectional line
-					(at 7.62 -2.54 180)
-					(length 2.54)
-					(name "SWDIO"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "2"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(alternate "TMS" bidirectional line)
-				)
-				(pin open_collector line
-					(at 7.62 5.08 180)
-					(length 2.54)
-					(name "~{RESET}"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "3"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-				)
-				(pin output line
-					(at 7.62 0 180)
-					(length 2.54)
-					(name "SWCLK"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(number "4"
-						(effects
-							(font
-								(size 1.27 1.27)
-							)
-						)
-					)
-					(alternate "TCK" output line)
-				)
 				(pin power_in line
 					(at -2.54 -10.16 90)
 					(length 2.54)
@@ -711,6 +655,64 @@
 					)
 					(fill
 						(type background)
+					)
+				)
+			)
+			(symbol "JTAG_SWD_1X05_1.27MM_COMBO_1_0"
+				(pin output line
+					(at 7.62 0 180)
+					(length 2.54)
+					(name "SWCLK"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(alternate "TCK" output line)
+				)
+				(pin bidirectional line
+					(at 7.62 -2.54 180)
+					(length 2.54)
+					(name "SWDIO"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(alternate "TMS" bidirectional line)
+				)
+				(pin open_collector line
+					(at 7.62 5.08 180)
+					(length 2.54)
+					(name "~{RESET}"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
 					)
 				)
 			)
@@ -7014,7 +7016,7 @@
 				)
 			)
 		)
-		(property "Value" "DSK24"
+		(property "Value" "DSL14"
 			(at 122.2375 143.51 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7057,7 +7059,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C22466352"
+		(property "JLC Part" "C22466349"
 			(at 121.92 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7068,7 +7070,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "DSK24"
+		(property "Manufacturer Part" "DSL14"
 			(at 121.92 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -7451,7 +7453,7 @@
 				)
 			)
 		)
-		(property "Value" "DSK24"
+		(property "Value" "DSL14"
 			(at 68.8975 153.67 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7494,7 +7496,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C22466352"
+		(property "JLC Part" "C22466349"
 			(at 68.58 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -7505,7 +7507,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "DSK24"
+		(property "Manufacturer Part" "DSL14"
 			(at 68.58 157.48 0)
 			(hide yes)
 			(show_name no)
@@ -10168,10 +10170,10 @@
 		(pin "2"
 			(uuid "008a1c90-ddab-4892-b5cf-14d524bafdf3")
 		)
-		(pin "3"
+		(pin "4"
 			(uuid "6c6aeb2f-4ce8-4fe2-b0b9-7dc868ea82fc")
 		)
-		(pin "4"
+		(pin "3"
 			(uuid "b22c9829-4c34-4e45-bd18-8e3c8cc260cf")
 		)
 		(pin "1"
