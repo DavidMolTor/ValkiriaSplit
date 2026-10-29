@@ -3513,6 +3513,10 @@
 		(at 69.85 38.1)
 		(uuid "3a5df561-ef49-47fa-9554-1d169e851066")
 	)
+	(no_connect
+		(at 138.43 78.74)
+		(uuid "69276001-8514-4833-8449-41b1be47e66b")
+	)
 	(wire
 		(pts
 			(xy 140.97 91.44) (xy 138.43 91.44)
@@ -3795,16 +3799,6 @@
 	)
 	(wire
 		(pts
-			(xy 138.43 78.74) (xy 140.97 78.74)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3081a0fb-e591-45a5-b9fc-7b6e97782798")
-	)
-	(wire
-		(pts
 			(xy 87.63 60.96) (xy 90.17 60.96)
 		)
 		(stroke
@@ -3992,6 +3986,16 @@
 			(type default)
 		)
 		(uuid "6242d350-69b7-42e5-bfcc-7d9509fc1839")
+	)
+	(wire
+		(pts
+			(xy 87.63 66.04) (xy 90.17 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "667e28ad-60cc-4737-8194-f8eb79130ba1")
 	)
 	(wire
 		(pts
@@ -5081,17 +5085,17 @@
 	)
 	(global_label "COL6_R"
 		(shape input)
-		(at 140.97 78.74 0)
+		(at 87.63 66.04 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left)
+			(justify right)
 		)
-		(uuid "87636e9a-a8c0-467a-8fb7-456e98a53bc6")
+		(uuid "7cdfc5b0-903d-4690-b85a-02522d4adb69")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 153.4499 78.74 0)
+			(at 77.5691 66.04 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5099,7 +5103,7 @@
 				(font
 					(size 1.27 1.27)
 				)
-				(justify left)
+				(justify right)
 			)
 		)
 	)
@@ -8359,7 +8363,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "10u"
 			(at 148.59 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8370,7 +8374,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 145.7452 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -8403,7 +8407,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C29823"
+		(property "JLC Part" "C96446"
 			(at 144.78 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -8414,7 +8418,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206B475K500NT"
+		(property "Manufacturer Part" "CL10A106MA8NRNC"
 			(at 144.78 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -9302,7 +9306,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Custom_Parts:1.08_MIP_MODULE"
+		(property "Footprint" "Custom_Parts:1.08_MIP_MODULE_TALL"
 			(at 238.76 120.65 0)
 			(hide yes)
 			(show_name no)
@@ -9994,7 +9998,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "4.7u"
+		(property "Value" "10u"
 			(at 81.28 165.0999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10005,7 +10009,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 84.1248 167.64 0)
 			(hide yes)
 			(show_name no)
@@ -10038,7 +10042,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C29823"
+		(property "JLC Part" "C96446"
 			(at 85.09 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -10049,7 +10053,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "1206B475K500NT"
+		(property "Manufacturer Part" "CL10A106MA8NRNC"
 			(at 85.09 163.83 0)
 			(hide yes)
 			(show_name no)
