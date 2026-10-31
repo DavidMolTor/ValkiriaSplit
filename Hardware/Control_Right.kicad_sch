@@ -6377,7 +6377,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Custom_Parts:JST_PH_1x02_P2.00MM_SMD_HOR"
+		(property "Footprint" "Custom_Parts:JST_ZH_1x02_P1.50MM_SMD_HORIZONTAL"
 			(at 49.53 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6410,7 +6410,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C3029440"
+		(property "JLC Part" "C722913"
 			(at 49.53 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -6421,7 +6421,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "WAFER-PH2.0-2PWB"
+		(property "Manufacturer Part" "ZH1.5-2P-WT"
 			(at 49.53 40.64 0)
 			(hide yes)
 			(show_name no)
@@ -8158,7 +8158,7 @@
 				)
 			)
 		)
-		(property "Value" "SW_Push"
+		(property "Value" "SWITCH"
 			(at 74.93 99.06 0)
 			(show_name no)
 			(do_not_autoplace no)
