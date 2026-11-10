@@ -1,12 +1,14 @@
 # VALKIRIA SPLIT
 
-Completely wireless split keyboard using nRF52840 as the controller for each side.
+Completely wireless, split mechanical keyboard based on the nRF52840 microcontroller, with independent wireless operation for each half.
 
 ## Introduction
 
-TODO
+This is a personal project born from my interest in exploring the world of ergonomic mechanical keyboards. After looking at several existing designs, I found that none of them offered exactly what I was looking for, so I decided to design and build my own.
 
-<p align="center"><img src="/Build/ValkiriaSplit_Front.png" alt="VALKIRIA SPLIT"></p>
+I took a bit of a gamble by choosing a Corne-inspired layout without a dedicated number row, opting for a more minimal design. However, if I find that this layout does not suit my needs, I plan to develop a new version with additional keys.
+
+<p align="center"><img src="/Build/ValkiriaSplit.png" alt="VALKIRIA SPLIT"></p>
 
 ## Features
 
@@ -16,6 +18,8 @@ TODO
 
  - Hot-swappable chocolate sockets.
 
- - Two 0.96" TFT displays.
+ - Full RGB with switchable regulator.
+
+ - Two 1.08" MIP displays.
 
  - Rotary encoders with push button.
