@@ -4922,10 +4922,10 @@
 		(uuid "38d5fefa-dfb6-4aeb-a27c-c1d378fc9628")
 	)
 	(label "LED_DATA"
-		(at 87.63 53.34 180)
+		(at 90.17 53.34 180)
 		(effects
 			(font
-				(size 1.27 1.27)
+				(size 0.889 0.889)
 			)
 			(justify right bottom)
 		)
@@ -5648,7 +5648,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "0f68e2f7-d5c0-4fbd-9a2c-76aa4f29201c")
-		(property "Reference" "R3"
+		(property "Reference" "R5"
 			(at 97.79 162.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5734,7 +5734,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R3")
+					(reference "R5")
 					(unit 1)
 				)
 			)
@@ -6248,7 +6248,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1eb73635-5378-46d4-8fdc-276027283a23")
-		(property "Reference" "R5"
+		(property "Reference" "R7"
 			(at 124.46 162.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6334,7 +6334,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R5")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6777,7 +6777,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "2ffa7454-a077-479f-a35b-9718d8d3895e")
-		(property "Reference" "R8"
+		(property "Reference" "R4"
 			(at 68.58 64.77 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6861,7 +6861,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R8")
+					(reference "R4")
 					(unit 1)
 				)
 			)
@@ -6878,7 +6878,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "353600ed-f5b7-45c6-ab27-64d57c3380da")
-		(property "Reference" "R2"
+		(property "Reference" "R1"
 			(at 64.77 162.5599 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6964,7 +6964,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R2")
+					(reference "R1")
 					(unit 1)
 				)
 			)
@@ -7890,7 +7890,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6e8ee27b-a620-4009-850d-f54d26aaf6bb")
-		(property "Reference" "R6"
+		(property "Reference" "R3"
 			(at 68.58 62.23 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7974,7 +7974,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R6")
+					(reference "R3")
 					(unit 1)
 				)
 			)
@@ -9567,7 +9567,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "aef29fd3-ba06-43dc-bedd-b2626c523360")
-		(property "Reference" "R23"
+		(property "Reference" "R2"
 			(at 68.58 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9651,7 +9651,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R23")
+					(reference "R2")
 					(unit 1)
 				)
 			)
@@ -10210,7 +10210,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "cffb5603-3e6a-4ad1-8700-166472376e3e")
-		(property "Reference" "R7"
+		(property "Reference" "R8"
 			(at 142.24 74.93 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10294,7 +10294,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R7")
+					(reference "R8")
 					(unit 1)
 				)
 			)
@@ -10960,7 +10960,7 @@
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "e326570a-4ce3-42f6-95ff-d1fc2f52c06f")
-		(property "Reference" "R4"
+		(property "Reference" "R6"
 			(at 124.46 152.3999 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11046,7 +11046,7 @@
 		(instances
 			(project "ValkiriaSplit"
 				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b/5d937f2a-6ebc-416c-8541-68d6f5af5bcd"
-					(reference "R4")
+					(reference "R6")
 					(unit 1)
 				)
 			)
