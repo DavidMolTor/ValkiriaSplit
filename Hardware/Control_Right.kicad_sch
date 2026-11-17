@@ -6105,7 +6105,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "0603WAF1002T5E"
+		(property "JLC Part" "C25804"
 			(at 95.25 163.83 0)
 			(hide yes)
 			(show_name no)
@@ -8812,7 +8812,7 @@
 				)
 			)
 		)
-		(property "Value" "500"
+		(property "Value" "100"
 			(at 58.42 59.69 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8855,7 +8855,7 @@
 				)
 			)
 		)
-		(property "JLC Part" "C21189"
+		(property "JLC Part" "C22775"
 			(at 63.5 60.96 90)
 			(hide yes)
 			(show_name no)
@@ -8866,7 +8866,7 @@
 				)
 			)
 		)
-		(property "Manufacturer Part" "0603WAF0000T5E"
+		(property "Manufacturer Part" "0603WAF1000T5E"
 			(at 63.5 60.96 90)
 			(hide yes)
 			(show_name no)

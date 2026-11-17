@@ -209,7 +209,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 66.04 177.8 0)
+		(at 77.47 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -220,7 +220,7 @@
 		(fields_autoplaced yes)
 		(uuid "1f0ee2b7-b0fa-4d29-ba2b-1946e127c65e")
 		(property "Reference" "FID1"
-			(at 68.58 176.5299 0)
+			(at 80.01 176.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -231,7 +231,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 68.58 179.0699 0)
+			(at 80.01 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -242,7 +242,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_1mm_Mask2mm"
-			(at 66.04 177.8 0)
+			(at 77.47 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -253,7 +253,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 177.8 0)
+			(at 77.47 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -264,7 +264,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 66.04 177.8 0)
+			(at 77.47 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -275,7 +275,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 66.04 177.8 0)
+			(at 77.47 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -286,7 +286,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 66.04 177.8 0)
+			(at 77.47 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -306,106 +306,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Mechanical:Fiducial")
-		(at 124.46 177.8 0)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom no)
-		(on_board yes)
-		(in_pos_files no)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4ce948be-d6b5-4ce6-9e22-2d499a2a58a7")
-		(property "Reference" "FID4"
-			(at 127 176.5299 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "Fiducial"
-			(at 127 179.0699 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Fiducial:Fiducial_1mm_Mask2mm"
-			(at 124.46 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 124.46 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Fiducial Marker"
-			(at 124.46 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "JLC Part" "-"
-			(at 124.46 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Manufacturer Part" "-"
-			(at 124.46 177.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(instances
-			(project "ValkiriaSplit"
-				(path "/7a2b6783-81dc-46bd-bbde-89342e0b1c5b"
-					(reference "FID4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 105.41 168.91 0)
+		(at 106.68 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -416,7 +318,7 @@
 		(fields_autoplaced yes)
 		(uuid "6ec02a05-98e3-46db-ba07-22349d6d3e68")
 		(property "Reference" "H3"
-			(at 107.95 167.6399 0)
+			(at 109.22 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -427,7 +329,7 @@
 			)
 		)
 		(property "Value" "Tooling"
-			(at 107.95 170.1799 0)
+			(at 109.22 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -438,7 +340,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:ToolingHole_1.152mm"
-			(at 105.41 168.91 0)
+			(at 106.68 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -449,7 +351,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 168.91 0)
+			(at 106.68 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -460,7 +362,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 105.41 168.91 0)
+			(at 106.68 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -471,7 +373,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 105.41 168.91 0)
+			(at 106.68 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -482,7 +384,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 105.41 168.91 0)
+			(at 106.68 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -503,7 +405,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 86.36 168.91 0)
+		(at 87.63 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -514,7 +416,7 @@
 		(fields_autoplaced yes)
 		(uuid "92e9ffd2-d294-4b14-b8c8-e1a1c8181d2f")
 		(property "Reference" "H2"
-			(at 88.9 167.6399 0)
+			(at 90.17 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -525,7 +427,7 @@
 			)
 		)
 		(property "Value" "Tooling"
-			(at 88.9 170.1799 0)
+			(at 90.17 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -536,7 +438,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:ToolingHole_1.152mm"
-			(at 86.36 168.91 0)
+			(at 87.63 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -547,7 +449,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 168.91 0)
+			(at 87.63 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -558,7 +460,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 86.36 168.91 0)
+			(at 87.63 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -569,7 +471,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 86.36 168.91 0)
+			(at 87.63 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -580,7 +482,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 86.36 168.91 0)
+			(at 87.63 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -601,7 +503,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 66.04 168.91 0)
+		(at 68.58 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -612,7 +514,7 @@
 		(fields_autoplaced yes)
 		(uuid "b06ddbdd-ae39-443e-ac3f-a8e1d7cf8107")
 		(property "Reference" "H1"
-			(at 68.58 167.6399 0)
+			(at 71.12 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -623,7 +525,7 @@
 			)
 		)
 		(property "Value" "Tooling"
-			(at 68.58 170.1799 0)
+			(at 71.12 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -634,7 +536,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:ToolingHole_1.152mm"
-			(at 66.04 168.91 0)
+			(at 68.58 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -645,7 +547,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 66.04 168.91 0)
+			(at 68.58 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -656,7 +558,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 66.04 168.91 0)
+			(at 68.58 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -667,7 +569,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 66.04 168.91 0)
+			(at 68.58 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -678,7 +580,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 66.04 168.91 0)
+			(at 68.58 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -699,7 +601,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole")
-		(at 124.46 168.91 0)
+		(at 125.73 168.91 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -710,7 +612,7 @@
 		(fields_autoplaced yes)
 		(uuid "bcd98add-78d2-4d74-bcdc-96293a5901c9")
 		(property "Reference" "H4"
-			(at 127 167.6399 0)
+			(at 128.27 167.6399 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -721,7 +623,7 @@
 			)
 		)
 		(property "Value" "Tooling"
-			(at 127 170.1799 0)
+			(at 128.27 170.1799 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -732,7 +634,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:ToolingHole_1.152mm"
-			(at 124.46 168.91 0)
+			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -743,7 +645,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 124.46 168.91 0)
+			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -754,7 +656,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
-			(at 124.46 168.91 0)
+			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -765,7 +667,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 124.46 168.91 0)
+			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -776,7 +678,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 124.46 168.91 0)
+			(at 125.73 168.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -797,7 +699,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 105.41 177.8 0)
+		(at 118.11 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -808,7 +710,7 @@
 		(fields_autoplaced yes)
 		(uuid "c3624a7f-82b2-43dc-b770-e0c8ab09b28a")
 		(property "Reference" "FID3"
-			(at 107.95 176.5299 0)
+			(at 120.65 176.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -819,7 +721,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 107.95 179.0699 0)
+			(at 120.65 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -830,7 +732,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_1mm_Mask2mm"
-			(at 105.41 177.8 0)
+			(at 118.11 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -841,7 +743,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 105.41 177.8 0)
+			(at 118.11 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -852,7 +754,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 105.41 177.8 0)
+			(at 118.11 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -863,7 +765,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 105.41 177.8 0)
+			(at 118.11 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -874,7 +776,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 105.41 177.8 0)
+			(at 118.11 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -895,7 +797,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Fiducial")
-		(at 86.36 177.8 0)
+		(at 97.79 177.8 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -906,7 +808,7 @@
 		(fields_autoplaced yes)
 		(uuid "fad64229-f632-4a2f-b675-d32cb037c673")
 		(property "Reference" "FID2"
-			(at 88.9 176.5299 0)
+			(at 100.33 176.5299 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -917,7 +819,7 @@
 			)
 		)
 		(property "Value" "Fiducial"
-			(at 88.9 179.0699 0)
+			(at 100.33 179.0699 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -928,7 +830,7 @@
 			)
 		)
 		(property "Footprint" "Fiducial:Fiducial_1mm_Mask2mm"
-			(at 86.36 177.8 0)
+			(at 97.79 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -939,7 +841,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 86.36 177.8 0)
+			(at 97.79 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -950,7 +852,7 @@
 			)
 		)
 		(property "Description" "Fiducial Marker"
-			(at 86.36 177.8 0)
+			(at 97.79 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -961,7 +863,7 @@
 			)
 		)
 		(property "JLC Part" "-"
-			(at 86.36 177.8 0)
+			(at 97.79 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -972,7 +874,7 @@
 			)
 		)
 		(property "Manufacturer Part" "-"
-			(at 86.36 177.8 0)
+			(at 97.79 177.8 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
